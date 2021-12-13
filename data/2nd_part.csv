@@ -1,0 +1,490 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2021-05-27T08:54:33.708Z,30.0738,66.2502,10.0,4.7,mb,,96.0,5.042,0.71,us,us6000ef0w,2021-07-31T22:10:13.040Z,"61 km NNE of Nushki, Pakistan",earthquake,8.9,1.9,0.074,56.0,reviewed,us,us
+2021-05-27T00:38:27.680Z,30.0988,66.2734,10.0,4.2,mb,,123.0,5.011,0.71,us,us6000eey6,2021-07-31T22:10:07.040Z,"64 km WNW of Mastung, Pakistan",earthquake,9.4,1.9,0.106,25.0,reviewed,us,us
+2021-05-25T22:12:19.297Z,30.2556,66.4514,10.0,4.2,mb,,121.0,4.802,0.74,us,us6000efky,2021-07-31T22:09:48.040Z,"51 km W of Kot Malik Barkhurdar, Pakistan",earthquake,9.9,1.9,0.108,24.0,reviewed,us,us
+2021-04-10T21:49:38.394Z,28.3413,67.2682,10.0,4.3,mb,,176.0,6.363,0.82,us,us6000e0pc,2021-06-19T21:24:57.040Z,"73 km WNW of Chowki Jamali, Pakistan",earthquake,10.6,1.9,0.107,25.0,reviewed,us,us
+2021-04-10T15:18:24.540Z,28.062,66.6139,34.15,4.1,mb,,149.0,6.784,0.76,us,us6000e0mr,2021-06-19T21:24:54.040Z,"27 km N of Khuzdar, Pakistan",earthquake,9.9,6.6,0.107,30.0,reviewed,us,us
+2021-02-09T01:16:16.570Z,31.0033,66.7118,10.0,4.3,mb,,133.0,4.037,0.64,us,us6000di1t,2021-04-22T21:51:46.040Z,"26 km ENE of Chaman, Pakistan",earthquake,10.2,2.0,0.16,11.0,reviewed,us,us
+2020-11-14T02:56:55.620Z,30.3659,67.435,12.04,5.5,mww,,41.0,4.379,0.96,us,us7000cet5,2021-01-27T17:29:09.040Z,"16 km SSW of Alik Ghund, Pakistan",earthquake,8.5,3.5,0.08,15.0,reviewed,us,us
+2020-10-16T08:13:29.666Z,29.5811,67.543,10.0,4.3,mb,,144.0,5.106,0.33,us,us6000c8q9,2020-12-29T23:07:27.040Z,"15 km NW of Dadhar, Pakistan",earthquake,11.5,2.0,0.142,14.0,reviewed,us,us
+2020-08-16T13:39:01.465Z,28.0836,65.938,13.39,4.2,mb,,131.0,8.393,0.92,us,us6000bfm0,2020-10-24T20:08:56.040Z,"55 km SW of Surab, Pakistan",earthquake,9.8,4.7,0.098,29.0,reviewed,us,us
+2020-08-12T22:40:45.802Z,28.0443,65.9578,13.98,5.6,mww,,37.0,6.993,0.74,us,us6000bdq8,2020-10-24T20:08:46.040Z,"57 km SSW of Surab, Pakistan",earthquake,7.1,2.1,0.083,14.0,reviewed,us,us
+2020-03-05T16:05:56.508Z,29.3811,67.7,16.31,4.3,mb,,71.0,5.269,0.68,us,us60008aax,2020-05-23T22:03:06.040Z,"11 km SSE of Dadhar, Pakistan",earthquake,8.4,2.9,0.079,53.0,reviewed,us,us
+2020-01-04T22:34:22.995Z,31.9136,66.8822,10.0,4.0,mb,,147.0,3.185,0.89,us,us70006ut9,2020-03-21T17:13:35.040Z,"21 km S of Qal?t, Afghanistan",earthquake,5.6,2.0,0.183,8.0,reviewed,us,us
+2019-12-03T11:24:31.615Z,28.8676,65.0598,13.67,4.3,mb,,210.0,6.003,0.38,us,us70006fie,2020-02-29T19:52:43.040Z,"46 km NW of Kharan, Pakistan",earthquake,14.0,7.0,0.099,29.0,reviewed,us,us
+2019-08-28T19:35:00.502Z,31.263,66.6489,10.0,4.0,mb,,150.0,3.839,0.75,us,us700059ab,2019-11-15T17:19:33.040Z,"42 km NNE of Chaman, Pakistan",earthquake,10.0,2.0,0.196,7.0,reviewed,us,us
+2019-03-16T06:00:04.750Z,29.7206,67.4271,10.0,5.0,mb,,93.0,4.997,0.58,us,us1000jgz1,2019-06-01T21:24:17.040Z,"18 km SSE of Mach, Pakistan",earthquake,7.9,1.7,0.054,110.0,reviewed,us,us
+2019-03-03T06:33:21.670Z,28.8375,67.389,16.68,4.5,mb,,83.0,5.858,0.57,us,us1000ja2b,2019-05-14T18:36:18.040Z,"48 km WSW of Bhag, Pakistan",earthquake,6.9,4.2,0.074,53.0,reviewed,us,us
+2019-02-18T09:48:46.570Z,28.6712,66.7197,10.0,4.1,mb,,133.0,6.177,0.91,us,us2000jjh9,2019-05-01T22:01:01.040Z,"41 km SSE of Kalat, Pakistan",earthquake,4.4,2.0,0.135,15.0,reviewed,us,us
+2018-12-17T07:12:39.170Z,29.9821,67.6466,10.0,4.7,mb,,60.0,4.696,0.84,us,us2000iud2,2019-02-23T20:21:05.040Z,"31 km WSW of Harnai, Pakistan",earthquake,4.0,1.9,0.069,70.0,reviewed,us,us
+2018-11-22T09:07:10.570Z,29.01,66.4136,10.0,4.4,mb,,97.0,5.951,1.19,us,us1000hvcm,2019-02-02T20:02:28.040Z,"17 km W of Kalat, Pakistan",earthquake,8.1,1.9,0.102,28.0,reviewed,us,us
+2018-07-19T19:33:26.480Z,30.3549,66.4482,10.0,4.2,mb,,87.0,4.714,1.11,us,us2000g94a,2018-10-04T14:15:23.040Z,"54 km WNW of Kot Malik Barkhurdar, Pakistan",earthquake,6.7,1.9,0.101,27.0,reviewed,us,us
+2018-06-27T16:53:38.200Z,30.2701,66.5443,24.88,4.1,mb,,135.0,4.753,1.05,us,us1000f3fl,2018-09-21T16:25:46.040Z,"43 km W of Kot Malik Barkhurdar, Pakistan",earthquake,8.1,7.6,0.157,11.0,reviewed,us,us
+2018-06-19T10:53:45.020Z,28.1275,65.9091,10.0,4.5,mb,,109.0,6.932,0.69,us,us1000eyqu,2018-09-19T15:15:54.040Z,"53 km SW of Surab, Pakistan",earthquake,9.1,1.9,0.181,9.0,reviewed,us,us
+2018-03-31T17:46:11.980Z,29.9977,67.8161,21.11,4.2,mb,,110.0,4.647,1.14,us,us2000dvkt,2018-06-22T21:32:18.040Z,"16 km SW of Harnai, Pakistan",earthquake,9.7,5.7,0.112,22.0,reviewed,us,us
+2017-11-07T18:58:50.870Z,29.4443,66.4555,17.62,5.0,mb,,97.0,5.536,0.88,us,us2000bjyb,2018-01-31T03:04:42.040Z,"43 km ESE of Nushki, Pakistan",earthquake,8.0,4.2,0.052,118.0,reviewed,us,us
+2017-08-13T08:36:06.470Z,28.1839,66.4679,26.95,4.1,mb,,118.0,6.708,0.53,us,us2000a7rx,2017-11-14T01:42:05.040Z,"39 km SSE of Surab, Pakistan",earthquake,7.4,7.5,0.127,18.0,reviewed,us,us
+2017-04-22T19:37:36.290Z,29.6292,67.3731,17.83,4.3,mb,,97.0,5.098,0.98,us,us10008jtj,2017-07-11T01:48:41.040Z,"26 km S of Mach, Pakistan",earthquake,8.8,4.6,0.103,27.0,reviewed,us,us
+2017-03-24T01:23:31.050Z,29.1084,67.1771,18.04,4.9,mb,,37.0,5.643,0.88,us,us20008u6b,2017-06-12T19:46:55.040Z,"57 km E of Kalat, Pakistan",earthquake,6.6,3.8,0.046,147.0,reviewed,us,us
+2016-08-31T00:13:21.110Z,29.5323,66.5881,17.84,4.1,mb,,166.0,5.411,1.18,us,us10006iwz,2016-11-29T01:28:47.040Z,"38 km SW of Mastung, Pakistan",earthquake,6.4,5.9,0.185,8.0,reviewed,us,us
+2016-08-27T14:46:39.600Z,28.9937,66.1668,10.0,4.2,mb,,278.0,6.048,0.75,us,us20006uk7,2016-11-29T01:28:42.040Z,"41 km W of Kalat, Pakistan",earthquake,8.4,2.0,0.264,4.0,reviewed,us,us
+2016-08-17T22:58:20.290Z,30.5619,66.3882,10.0,4.4,mb,,81.0,4.556,0.9,us,us10006eks,2016-11-15T02:21:52.040Z,"39 km S of Chaman, Pakistan",earthquake,8.1,1.9,0.087,38.0,reviewed,us,us
+2016-07-10T21:33:55.890Z,30.8996,66.4706,30.09,4.7,mb,,96.0,4.228,0.74,us,us100062gd,2016-09-08T01:50:26.040Z,"2 km SE of Chaman, Pakistan",earthquake,8.0,4.9,0.051,116.0,reviewed,us,us
+2016-05-13T07:01:10.270Z,30.659,66.3878,10.0,5.5,mwb,,33.0,4.472,0.95,us,us10005h1j,2017-10-11T21:28:28.142Z,"29 km SSW of Chaman, Pakistan",earthquake,8.0,1.8,0.055,32.0,reviewed,us,us
+2016-05-13T07:00:51.270Z,30.6507,66.4361,10.0,4.7,mb,,55.0,4.459,0.95,us,us10005h1s,2016-07-22T19:39:04.040Z,"29 km S of Chaman, Pakistan",earthquake,6.7,1.9,0.095,34.0,reviewed,us,us
+2016-05-13T06:59:32.030Z,30.6598,66.4243,10.0,5.2,mwb,,21.0,4.456,0.87,us,us10005h1a,2016-07-22T19:39:04.040Z,"28 km S of Chaman, Pakistan",earthquake,7.4,1.8,0.055,32.0,reviewed,us,us
+2015-11-08T12:08:38.800Z,31.5433,67.0558,20.04,4.3,mb,,147.0,3.423,1.25,us,us10003vqj,2016-02-05T03:16:36.040Z,"63 km SSE of Qal?t, Afghanistan",earthquake,10.7,6.0,0.137,15.0,reviewed,us,us
+2015-10-17T00:06:00.200Z,28.8422,64.3723,55.47,4.5,mb,,124.0,5.817,0.82,us,us10003paa,2016-01-15T20:50:51.040Z,"6 km SSW of Dalbandin, Pakistan",earthquake,9.2,5.2,0.078,48.0,reviewed,us,us
+2015-08-27T13:58:44.190Z,31.8793,67.3041,20.77,4.2,mb,,147.0,3.028,0.63,us,us100035a5,2015-12-01T00:35:58.040Z,"45 km SE of Qal?t, Afghanistan",earthquake,7.6,7.1,0.199,7.0,reviewed,us,us
+2015-05-20T13:19:19.920Z,29.8845,67.4626,18.15,4.2,mb,,110.0,4.832,0.97,us,us10002auh,2015-07-23T01:04:13.040Z,"12 km E of Mach, Pakistan",earthquake,10.6,4.8,0.147,13.0,reviewed,us,us
+2015-05-15T21:15:13.330Z,31.0754,67.8671,22.27,4.1,mb,,144.0,3.594,1.19,us,us100029la,2015-07-23T01:04:01.040Z,"38 km NNE of Khadan Khak, Pakistan",earthquake,9.9,8.3,0.126,17.0,reviewed,us,us
+2015-04-15T12:42:44.040Z,29.8751,67.8637,18.43,4.0,mb,,184.0,4.758,0.99,us,us2000284m,2015-06-22T23:19:02.040Z,"26 km SSW of Harnai, Pakistan",earthquake,11.1,6.1,0.231,5.0,reviewed,us,us
+2015-03-29T14:24:01.110Z,28.5952,66.375,10.71,4.2,mb,,157.0,6.349,1.03,us,us10001rrz,2015-06-12T01:53:27.040Z,"15 km NE of Surab, Pakistan",earthquake,9.7,1.9,0.124,18.0,reviewed,us,us
+2015-02-12T18:11:27.860Z,28.2964,66.4437,24.43,4.1,mb,,115.0,6.609,1.05,us,usb000tnq4,2015-05-11T23:20:10.040Z,"28 km SE of Surab, Pakistan",earthquake,6.3,5.7,0.145,16.0,reviewed,us,us
+2014-11-24T22:04:05.290Z,30.24,67.5154,18.29,4.5,mb,,96.0,4.478,0.82,us,usb000szpg,2015-02-18T03:30:58.040Z,Pakistan,earthquake,7.1,3.6,0.098,31.0,reviewed,us,us
+2014-06-22T04:23:33.860Z,28.7611,67.3607,14.24,4.0,mb,,115.0,5.937,1.0,us,usc000rjwt,2014-09-19T17:23:05.000Z,"54 km SW of Bhag, Pakistan",earthquake,,5.2,0.172,11.0,reviewed,us,us
+2014-05-16T06:32:10.690Z,29.4664,67.695,18.87,4.9,mb,,97.0,5.187,0.85,us,usb000qqg4,2014-08-09T02:53:45.000Z,"4 km ESE of Dadhar, Pakistan",earthquake,,2.4,0.057,98.0,reviewed,us,us
+2014-03-12T19:19:18.300Z,29.3727,67.4259,17.73,4.0,mb,,151.0,5.332,0.65,us,usc000nnva,2014-05-16T21:51:38.000Z,"24 km WSW of Dadhar, Pakistan",earthquake,,6.6,0.299,3.0,reviewed,us,us
+2014-03-09T23:53:34.030Z,29.1631,67.7279,9.99,4.2,mb,,97.0,5.477,1.12,us,usc000n651,2014-05-15T02:24:00.000Z,"16 km NW of Bhag, Pakistan",earthquake,,1.8,0.136,19.0,reviewed,us,us
+2013-12-06T21:15:01.860Z,28.2604,66.5701,33.28,4.2,mb,,119.0,6.607,0.64,us,usb000lczu,2014-02-15T01:32:11.000Z,"39 km SE of Surab, Pakistan",earthquake,,7.0,0.106,,reviewed,us,us
+2013-11-16T07:19:55.840Z,30.1352,66.3006,22.14,4.1,mb,,105.0,4.968,0.96,us,usb000kzr0,2014-01-31T21:22:22.000Z,"64 km NW of Mastung, Pakistan",earthquake,,5.6,0.158,,reviewed,us,us
+2013-11-15T10:42:40.520Z,29.8329,67.5025,17.75,4.9,mb,,70.0,4.872,0.87,us,usb000kyxr,2014-01-31T21:22:21.000Z,"16 km ESE of Mach, Pakistan",earthquake,,3.5,0.056,,reviewed,us,us
+2013-10-18T13:18:22.570Z,28.2609,66.5271,10.0,5.2,mb,,50.0,6.619,0.93,us,usb000kgbw,2013-12-30T23:41:13.000Z,"36 km SE of Surab, Pakistan",earthquake,,1.8,0.064,,reviewed,us,us
+2013-10-10T21:06:11.530Z,28.2301,65.9639,26.55,4.0,mb,,114.0,6.819,0.77,us,usb000kff0,2013-12-24T01:42:58.000Z,Pakistan,earthquake,,5.3,0.195,,reviewed,us,us
+2013-08-09T01:32:22.810Z,30.4099,66.3953,22.26,4.2,mb,,104.0,4.687,0.87,us,usb000izbs,2013-10-12T21:32:32.000Z,"56 km S of Chaman, Pakistan",earthquake,,5.8,0.152,,reviewed,us,us
+2013-02-26T20:12:13.550Z,29.194,67.554,10.0,4.7,mb,65.0,96.8,,1.15,us,usp000jzj7,2014-11-07T01:50:12.157Z,"31 km WNW of Bhag, Pakistan",earthquake,,,,26.0,reviewed,us,us
+2013-01-10T23:48:04.840Z,29.02,67.403,15.2,4.2,mb,52.0,113.8,,0.82,us,usp000jy78,2014-11-07T01:49:48.819Z,"41 km W of Bhag, Pakistan",earthquake,,16.0,,9.0,reviewed,us,us
+2012-12-25T17:36:32.800Z,28.464,66.465,35.0,5.0,mb,169.0,56.8,,0.96,us,usp000jxd6,2014-11-07T01:49:39.651Z,"20 km E of Surab, Pakistan",earthquake,,,,108.0,reviewed,us,us
+2012-12-06T23:26:53.700Z,28.404,66.16,10.8,4.3,mb,57.0,108.2,,1.03,us,usp000jwj3,2014-11-07T01:49:33.410Z,"13 km SW of Surab, Pakistan",earthquake,,17.2,,16.0,reviewed,us,us
+2012-12-05T07:26:40.050Z,30.217,67.873,10.0,4.3,mb,34.0,109.7,,1.06,us,usp000jwfv,2014-11-07T01:49:32.841Z,"14 km NNW of Harnai, Pakistan",earthquake,,,,3.0,reviewed,us,us
+2012-11-20T04:53:34.790Z,30.338,67.425,10.0,4.1,mb,38.0,64.2,,1.25,us,usp000jvv9,2014-11-07T01:49:24.591Z,"19 km SSW of Alik Ghund, Pakistan",earthquake,,,,9.0,reviewed,us,us
+2012-11-19T22:38:01.320Z,30.398,67.457,9.3,4.5,mb,49.0,107.7,,0.78,us,usp000jvuv,2014-11-07T01:49:24.529Z,"11 km SSW of Alik Ghund, Pakistan",earthquake,,15.5,,14.0,reviewed,us,us
+2012-11-19T17:58:08.800Z,30.492,67.566,11.6,4.8,mb,78.0,78.8,,1.07,us,usp000jvum,2014-11-07T01:49:24.507Z,"4 km E of Alik Ghund, Pakistan",earthquake,,21.2,,24.0,reviewed,us,us
+2012-11-19T17:54:07.460Z,30.538,67.584,10.0,5.3,mb,147.0,54.9,,1.35,us,usp000jvuk,2020-09-21T18:32:07.541Z,"8 km NE of Alik Ghund, Pakistan",earthquake,,,,83.0,reviewed,us,us
+2012-10-23T14:34:12.970Z,29.792,66.562,10.0,4.2,mb,23.0,123.1,,1.03,us,usp000jubw,2014-11-07T01:49:08.140Z,"27 km W of Mastung, Pakistan",earthquake,,,,5.0,reviewed,us,us
+2012-09-28T22:14:44.940Z,29.308,67.918,10.0,4.3,mb,23.0,167.0,,0.65,us,usp000jt6u,2014-11-07T01:48:56.300Z,"26 km S of Sibi, Pakistan",earthquake,,,,7.0,reviewed,us,us
+2012-09-02T05:48:35.770Z,29.533,67.905,10.0,4.5,mb,75.0,53.0,,0.81,us,usp000jrg1,2014-11-07T01:48:45.477Z,"2 km ESE of Sibi, Pakistan",earthquake,,,,21.0,reviewed,us,us
+2012-05-24T20:26:35.340Z,30.007,66.842,10.0,4.1,mb,33.0,107.6,,0.94,us,usp000jkw5,2014-11-07T01:47:52.519Z,"22 km N of Mastung, Pakistan",earthquake,,,,4.0,reviewed,us,us
+2012-05-24T17:07:12.080Z,28.718,66.668,10.0,4.2,mb,31.0,113.2,,0.96,us,usp000jkvw,2014-11-07T01:47:52.437Z,"34 km SSE of Kalat, Pakistan",earthquake,,,,4.0,reviewed,us,us
+2012-03-28T03:19:24.870Z,28.769,66.716,35.0,4.5,mb,76.0,96.8,,1.23,us,usp000jgwc,2014-11-07T01:47:19.988Z,Pakistan,earthquake,,,,20.0,reviewed,us,us
+2012-02-26T06:08:24.990Z,29.434,64.416,93.6,4.7,mb,89.0,96.1,,0.9,us,usp000jfdh,2014-11-07T01:47:04.559Z,"60 km N of Dalbandin, Pakistan",earthquake,,,,37.0,reviewed,us,us
+2012-01-19T04:55:20.170Z,28.734,66.498,20.9,4.4,mb,43.0,59.9,,1.12,us,usp000jdpb,2014-11-07T01:46:48.168Z,"33 km SSW of Kalat, Pakistan",earthquake,,19.9,,13.0,reviewed,us,us
+2011-07-24T10:38:54.000Z,28.274,66.368,10.0,4.9,mwc,106.0,39.4,,0.74,us,usp000j5du,2014-11-07T01:45:25.693Z,"26 km SSE of Surab, Pakistan",earthquake,,,,,reviewed,us,gcmt
+2011-07-05T01:40:07.570Z,28.417,66.14,8.5,4.2,mb,27.0,113.1,,1.01,us,usp000j45r,2014-11-07T01:45:16.746Z,"14 km SW of Surab, Pakistan",earthquake,,28.1,,7.0,reviewed,us,us
+2011-06-03T04:55:54.960Z,28.933,66.622,35.0,4.3,mb,33.0,106.7,,0.96,us,usp000j2mm,2014-11-07T01:45:01.150Z,"10 km SSE of Kalat, Pakistan",earthquake,,,,8.0,reviewed,us,us
+2011-05-13T15:35:41.180Z,28.286,66.341,35.0,4.5,mb,86.0,109.4,,0.97,us,usp000j1hs,2014-11-07T01:44:50.323Z,"24 km SSE of Surab, Pakistan",earthquake,,,,42.0,reviewed,us,us
+2010-12-06T20:31:40.910Z,28.233,66.388,10.0,4.0,mb,27.0,148.8,,0.92,us,usp000hqks,2014-11-07T01:43:05.086Z,"31 km SSE of Surab, Pakistan",earthquake,,,,7.0,reviewed,us,us
+2010-11-12T09:37:19.960Z,30.178,67.117,27.0,4.7,mb,54.0,80.4,,1.05,us,usp000hpex,2020-09-21T17:06:05.103Z,"11 km E of Quetta, Pakistan",earthquake,,16.2,,11.0,reviewed,us,us
+2010-10-07T01:21:26.150Z,28.674,66.076,10.0,4.6,mb,49.0,96.5,,1.18,us,usp000hmpz,2014-11-07T01:42:39.533Z,"26 km NW of Surab, Pakistan",earthquake,,,,19.0,reviewed,us,us
+2010-09-09T19:45:07.210Z,28.229,66.374,12.1,4.3,mb,40.0,91.9,,0.95,us,usp000hkgw,2014-11-07T01:42:25.913Z,"31 km SSE of Surab, Pakistan",earthquake,,33.3,,11.0,reviewed,us,us
+2010-08-14T20:18:02.280Z,28.326,66.323,35.0,5.2,mwc,107.0,37.0,,1.21,us,usp000hj6d,2016-11-10T02:31:55.883Z,"19 km SSE of Surab, Pakistan",earthquake,,,,,reviewed,us,gcmt
+2010-07-12T14:35:15.590Z,28.877,66.495,1.8,4.1,mb,26.0,137.5,,1.31,us,usp000hf6v,2014-11-07T01:41:52.791Z,"19 km SSW of Kalat, Pakistan",earthquake,,43.8,,5.0,reviewed,us,us
+2010-06-05T16:59:15.930Z,28.169,65.966,10.0,5.0,mwc,75.0,88.0,,1.07,us,usp000hdme,2016-11-10T02:29:11.371Z,"46 km SW of Surab, Pakistan",earthquake,,,,,reviewed,us,gcmt
+2009-12-12T16:22:10.860Z,28.449,66.621,32.8,4.8,mwc,107.0,96.9,,0.92,us,usp000h4zn,2016-11-10T02:21:34.190Z,"35 km E of Surab, Pakistan",earthquake,,20.1,,,reviewed,us,gcmt
+2009-09-10T04:54:31.960Z,28.575,66.454,12.5,4.9,mb,97.0,59.7,,0.91,us,usp000h1cy,2014-11-07T01:39:41.626Z,"21 km ENE of Surab, Pakistan",earthquake,,21.6,,49.0,reviewed,us,us
+2009-09-10T04:46:14.680Z,28.608,66.443,37.9,4.9,mb,111.0,56.8,,0.91,us,usp000h1cx,2014-11-07T01:39:41.617Z,"21 km NE of Surab, Pakistan",earthquake,,10.7,,52.0,reviewed,us,us
+2009-03-02T15:05:02.690Z,30.518,67.776,10.0,5.0,mb,96.0,31.9,,1.08,us,usp000guj5,2014-11-07T01:38:31.392Z,"15 km NNE of Ziarat, Pakistan",earthquake,,,,34.0,reviewed,us,us
+2009-01-09T13:04:10.570Z,30.389,67.482,10.0,4.3,mb,27.0,147.4,,0.72,us,usp000gsdm,2014-11-07T01:38:11.220Z,"11 km SSW of Alik Ghund, Pakistan",earthquake,,,,5.0,reviewed,us,us
+2008-12-31T06:17:07.650Z,30.452,67.503,10.0,4.4,mb,36.0,96.4,,0.88,us,usp000grwm,2014-11-07T01:38:04.819Z,"4 km SSW of Alik Ghund, Pakistan",earthquake,,,,9.0,reviewed,us,us
+2008-12-27T18:39:54.150Z,30.229,67.789,10.0,3.5,mb,11.0,330.9,,1.23,us,usp000grn1,2014-11-07T01:38:03.404Z,"18 km SSE of Ziarat, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-12-24T02:10:46.100Z,30.301,67.545,10.0,3.7,mb,29.0,147.5,,1.44,us,usp000grb6,2014-11-07T01:38:02.115Z,"19 km WSW of Ziarat, Pakistan",earthquake,,,,4.0,reviewed,us,us
+2008-12-23T19:37:29.120Z,30.321,67.671,10.0,4.5,mb,32.0,147.4,,1.17,us,usp000gra4,2014-11-07T01:38:01.650Z,"8 km SW of Ziarat, Pakistan",earthquake,,,,14.0,reviewed,us,us
+2008-12-20T06:43:04.260Z,30.297,67.308,10.0,4.0,mb,26.0,147.5,,1.1,us,usp000gr00,2014-11-07T01:38:00.221Z,"29 km SW of Alik Ghund, Pakistan",earthquake,,,,5.0,reviewed,us,us
+2008-12-14T11:59:16.630Z,30.419,67.88,10.0,3.9,mb,21.0,157.3,,1.47,us,usp000gqka,2014-11-07T01:37:58.146Z,"15 km ENE of Ziarat, Pakistan",earthquake,,,,4.0,reviewed,us,us
+2008-12-10T01:18:04.200Z,30.356,67.506,10.0,3.6,mb,18.0,128.7,,0.95,us,usp000gqac,2014-11-07T01:37:56.968Z,"14 km S of Alik Ghund, Pakistan",earthquake,,,,3.0,reviewed,us,us
+2008-12-09T22:52:37.620Z,30.442,67.404,10.0,5.7,mwc,193.0,40.9,,0.74,us,usp000gqa5,2020-09-21T15:54:29.075Z,"12 km WSW of Alik Ghund, Pakistan",earthquake,,,,,reviewed,us,gcmt
+2008-12-09T12:57:18.010Z,30.306,67.64,10.0,5.2,mb,97.0,96.5,,0.96,us,usp000gq8s,2014-11-07T01:37:56.139Z,"11 km SW of Ziarat, Pakistan",earthquake,,,,43.0,reviewed,us,us
+2008-12-09T05:53:43.050Z,30.393,67.448,10.0,5.3,mwc,161.0,40.8,,1.01,us,usp000gq7v,2016-11-10T02:05:11.231Z,"12 km SSW of Alik Ghund, Pakistan",earthquake,,,,,reviewed,us,gcmt
+2008-12-09T02:46:32.720Z,30.342,67.555,10.0,5.2,mwc,149.0,93.7,,1.08,us,usp000gq7g,2016-11-10T02:05:09.255Z,"16 km S of Alik Ghund, Pakistan",earthquake,,,,,reviewed,us,gcmt
+2008-12-08T04:22:56.000Z,29.181,67.555,10.0,4.0,mb,27.0,145.2,,1.03,us,usp000gq5q,2014-11-07T01:37:55.622Z,"30 km WNW of Bhag, Pakistan",earthquake,,,,7.0,reviewed,us,us
+2008-12-06T19:18:31.990Z,30.532,67.357,10.0,3.3,mb,17.0,103.7,,1.02,us,usp000gq27,2014-11-07T01:37:54.837Z,"16 km WNW of Alik Ghund, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2008-12-02T12:56:57.740Z,30.044,67.879,10.0,3.8,mb,17.0,147.6,,1.32,us,usp000gptg,2014-11-07T01:37:52.400Z,"8 km SW of Harnai, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-12-01T04:08:40.780Z,30.419,67.532,10.0,3.4,mb,12.0,147.4,,1.09,us,usp000gpqz,2014-11-07T01:37:51.059Z,"7 km S of Alik Ghund, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2008-11-29T18:39:10.190Z,30.267,67.544,10.0,4.4,mb,31.0,147.5,,1.29,us,usp000gpp3,2014-11-07T01:37:48.992Z,"21 km SW of Ziarat, Pakistan",earthquake,,,,3.0,reviewed,us,us
+2008-11-29T18:14:18.060Z,30.477,67.771,10.0,3.5,mb,16.0,147.3,,1.37,us,usp000gpp1,2014-11-07T01:37:48.988Z,"11 km NNE of Ziarat, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-11-28T02:53:13.230Z,30.31,67.294,10.0,3.8,mb,14.0,147.5,,1.32,us,usp000gpk6,2014-11-07T01:37:48.551Z,"29 km SW of Alik Ghund, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-11-22T13:47:06.010Z,30.477,67.398,10.0,3.7,mb,17.0,147.4,,1.33,us,usp000gp72,2014-11-07T01:37:46.643Z,"11 km W of Alik Ghund, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-11-20T10:08:09.740Z,30.424,67.406,10.8,4.7,mb,39.0,96.4,,0.91,us,usp000gp3g,2014-11-07T01:37:46.274Z,"13 km WSW of Alik Ghund, Pakistan",earthquake,,30.7,,11.0,reviewed,us,us
+2008-11-19T19:43:26.260Z,30.265,67.523,10.0,3.7,mb,12.0,147.5,,1.21,us,usp000gp26,2014-11-07T01:37:46.160Z,"23 km SW of Ziarat, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-11-18T15:38:28.460Z,30.294,67.463,10.0,4.1,mb,23.0,147.5,,1.07,us,usp000gnzy,2014-11-07T01:37:45.837Z,"22 km SSW of Alik Ghund, Pakistan",earthquake,,,,4.0,reviewed,us,us
+2008-11-18T07:22:03.300Z,30.096,67.517,10.0,3.8,mb,11.0,312.9,,1.48,us,usp000gnz5,2014-11-07T01:37:45.729Z,"31 km NE of Mach, Pakistan",earthquake,,,,3.0,reviewed,us,us
+2008-11-15T15:21:13.130Z,30.663,67.553,26.1,4.8,mwc,57.0,96.3,,1.13,us,usp000gnrx,2016-11-10T02:04:11.049Z,"18 km WSW of Khadan Khak, Pakistan",earthquake,,23.8,,,reviewed,us,gcmt
+2008-11-15T15:20:44.760Z,30.429,67.195,10.0,3.8,mb,14.0,226.9,,1.51,us,usp000gnrw,2014-11-07T01:37:44.441Z,Pakistan,earthquake,,,,4.0,reviewed,us,us
+2008-11-14T19:35:37.310Z,30.352,67.578,10.0,3.6,mb,13.0,147.4,,1.76,us,usp000gnpy,2014-11-07T01:37:44.251Z,"14 km WSW of Ziarat, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-11-14T19:34:02.070Z,30.497,67.542,10.0,3.7,mb,19.0,165.7,,1.34,us,usp000gnpx,2014-11-07T01:37:44.249Z,"2 km ENE of Alik Ghund, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-11-14T18:39:27.820Z,30.779,67.184,10.0,3.6,mb,11.0,147.2,,1.65,us,usp000gnps,2014-11-07T01:37:44.233Z,"28 km NE of Pishin, Pakistan",earthquake,,,,3.0,reviewed,us,us
+2008-11-13T20:42:28.150Z,30.332,67.366,10.0,4.3,mb,24.0,147.5,,0.98,us,usp000gnmh,2014-11-07T01:37:43.960Z,"23 km SW of Alik Ghund, Pakistan",earthquake,,,,3.0,reviewed,us,us
+2008-11-12T17:18:01.580Z,30.352,67.34,10.0,4.0,mb,13.0,147.4,,1.26,us,usp000gnj1,2014-11-07T01:37:43.709Z,"23 km SW of Alik Ghund, Pakistan",earthquake,,,,4.0,reviewed,us,us
+2008-11-12T13:18:02.100Z,30.312,67.576,10.0,3.6,mb,14.0,147.5,,0.85,us,usp000gnhq,2014-11-07T01:37:43.669Z,"16 km WSW of Ziarat, Pakistan",earthquake,,,,3.0,reviewed,us,us
+2008-11-10T21:47:31.510Z,30.206,67.693,10.0,3.6,mb,12.0,147.5,,0.4,us,usp000gndt,2014-11-07T01:37:43.261Z,Pakistan,earthquake,,,,1.0,reviewed,us,us
+2008-11-10T03:12:22.260Z,30.427,67.756,10.0,4.6,mb,48.0,147.4,,0.86,us,usp000gnbu,2014-11-07T01:37:43.051Z,"5 km NNE of Ziarat, Pakistan",earthquake,,,,12.0,reviewed,us,us
+2008-11-09T18:10:29.440Z,30.302,67.566,10.0,4.0,mb,25.0,147.5,,1.5,us,usp000gnav,2014-11-07T01:37:42.883Z,"17 km WSW of Ziarat, Pakistan",earthquake,,,,6.0,reviewed,us,us
+2008-11-09T00:46:22.130Z,30.213,67.729,10.0,3.6,mb,14.0,147.5,,1.13,us,usp000gn93,2014-11-07T01:37:42.306Z,"18 km S of Ziarat, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2008-11-07T07:59:29.630Z,30.248,67.615,10.0,4.0,mb,25.0,147.5,,1.13,us,usp000gn4z,2014-11-07T01:37:41.763Z,"18 km SW of Ziarat, Pakistan",earthquake,,,,3.0,reviewed,us,us
+2008-11-06T06:23:04.120Z,30.278,67.721,10.0,3.4,mb,14.0,147.5,,1.09,us,usp000gn2a,2014-11-07T01:37:41.404Z,"11 km S of Ziarat, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-11-06T02:07:35.310Z,30.301,67.596,10.0,4.4,mb,43.0,150.7,,0.82,us,usp000gn1r,2014-11-07T01:37:41.331Z,"15 km SW of Ziarat, Pakistan",earthquake,,,,14.0,reviewed,us,us
+2008-11-05T21:58:37.250Z,30.326,67.761,10.0,4.6,mb,44.0,177.2,,0.92,us,usp000gn1f,2014-11-07T01:37:41.276Z,"7 km SSE of Ziarat, Pakistan",earthquake,,,,18.0,reviewed,us,us
+2008-11-05T13:11:26.380Z,30.283,67.554,10.0,4.5,mb,30.0,164.5,,1.33,us,usp000gn0h,2014-11-07T01:37:41.189Z,"19 km SW of Ziarat, Pakistan",earthquake,,,,7.0,reviewed,us,us
+2008-11-05T12:58:36.740Z,30.282,67.602,10.0,3.9,mb,20.0,147.5,,1.13,us,usp000gn0g,2014-11-07T01:37:41.187Z,"16 km SW of Ziarat, Pakistan",earthquake,,,,5.0,reviewed,us,us
+2008-11-05T08:21:09.190Z,30.382,67.673,10.0,4.9,mb,65.0,96.5,,0.89,us,usp000gn05,2014-11-07T01:37:41.146Z,"5 km W of Ziarat, Pakistan",earthquake,,,,26.0,reviewed,us,us
+2008-11-04T23:27:55.140Z,30.667,67.015,10.0,3.5,mb,14.0,147.3,,0.68,us,usp000gmyz,2014-11-07T01:37:40.977Z,"9 km NNE of Pishin, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-11-04T04:19:43.510Z,30.264,67.688,10.0,4.3,mb,21.0,147.5,,1.59,us,usp000gmwx,2014-11-07T01:37:40.693Z,"13 km SSW of Ziarat, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-11-03T21:05:34.890Z,30.184,67.624,10.0,3.6,mb,12.0,184.4,,0.88,us,usp000gmvz,2014-11-07T01:37:40.594Z,"24 km SSW of Ziarat, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2008-11-03T16:08:14.750Z,30.403,67.665,10.0,4.9,mwc,75.0,118.8,,1.18,us,usp000gmvb,2016-11-10T02:03:35.236Z,"6 km WNW of Ziarat, Pakistan",earthquake,,,,,reviewed,us,gcmt
+2008-11-03T13:37:24.820Z,30.265,67.484,10.0,3.4,mb,12.0,147.5,,1.39,us,usp000gmv4,2014-11-07T01:37:40.377Z,"25 km S of Alik Ghund, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2008-11-02T08:55:11.950Z,30.268,67.44,10.0,3.4,mb,15.0,147.5,,1.24,us,usp000gmpf,2014-11-07T01:37:39.097Z,"25 km SSW of Alik Ghund, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2008-11-02T03:42:39.630Z,29.922,67.908,10.0,3.5,mb,10.0,240.5,,1.4,us,usp000gmns,2014-11-07T01:37:38.733Z,"20 km S of Harnai, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-11-01T20:21:06.460Z,30.4,67.701,10.0,4.5,mb,37.0,147.4,,1.45,us,usp000gmmu,2014-11-07T01:37:38.325Z,"3 km NW of Ziarat, Pakistan",earthquake,,,,7.0,reviewed,us,us
+2008-11-01T14:55:25.760Z,30.455,67.656,10.0,4.6,mb,63.0,53.3,,1.07,us,usp000gmm6,2014-11-07T01:37:38.123Z,"10 km NW of Ziarat, Pakistan",earthquake,,,,23.0,reviewed,us,us
+2008-10-31T23:59:52.920Z,30.538,67.442,10.0,5.1,mb,145.0,96.1,,0.95,us,usp000gmjg,2014-11-07T01:37:34.932Z,"9 km NW of Alik Ghund, Pakistan",earthquake,,,,91.0,reviewed,us,us
+2008-10-31T10:51:21.910Z,30.011,67.811,10.0,3.5,mb,9.0,240.1,,1.19,us,usp000gmgn,2014-11-07T01:37:34.616Z,"15 km SW of Harnai, Pakistan",earthquake,,,,3.0,reviewed,us,us
+2008-10-31T10:02:12.900Z,30.282,67.688,10.0,4.5,mb,31.0,147.5,,1.13,us,usp000gmgk,2014-11-07T01:37:34.612Z,"11 km SSW of Ziarat, Pakistan",earthquake,,,,6.0,reviewed,us,us
+2008-10-31T07:49:50.130Z,30.301,67.686,10.0,3.8,mb,14.0,147.5,,0.82,us,usp000gmgc,2014-11-07T01:37:34.599Z,"9 km SSW of Ziarat, Pakistan",earthquake,,,,3.0,reviewed,us,us
+2008-10-31T07:46:09.010Z,30.42,67.662,10.0,4.4,mb,28.0,147.4,,1.19,us,usp000gmgb,2014-11-07T01:37:34.596Z,"7 km NW of Ziarat, Pakistan",earthquake,,,,7.0,reviewed,us,us
+2008-10-31T03:46:39.520Z,30.358,67.549,10.0,3.9,mb,25.0,147.4,,1.11,us,usp000gmfz,2014-11-07T01:37:34.570Z,"14 km S of Alik Ghund, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-10-31T00:56:52.760Z,30.465,67.362,10.0,3.7,mb,16.0,183.4,,0.88,us,usp000gmfr,2014-11-07T01:37:34.553Z,"15 km W of Alik Ghund, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-10-30T23:51:07.330Z,30.503,67.35,10.0,3.5,mb,11.0,147.3,,1.06,us,usp000gmfn,2014-11-07T01:37:34.548Z,"16 km W of Alik Ghund, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-10-30T22:35:01.020Z,30.27,67.65,10.0,4.5,mb,35.0,164.5,,1.1,us,usp000gmfd,2014-11-07T01:37:34.522Z,"14 km SSW of Ziarat, Pakistan",earthquake,,,,10.0,reviewed,us,us
+2008-10-30T21:10:43.040Z,30.443,67.352,10.0,3.6,mb,10.0,259.3,,1.29,us,usp000gmf8,2014-11-07T01:37:34.511Z,"17 km WSW of Alik Ghund, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2008-10-30T20:53:02.740Z,30.376,67.552,10.0,4.2,mb,20.0,147.4,,0.93,us,usp000gmf5,2014-11-07T01:37:34.503Z,"12 km SSE of Alik Ghund, Pakistan",earthquake,,,,4.0,reviewed,us,us
+2008-10-30T17:34:02.490Z,30.468,67.495,10.0,3.8,mb,20.0,147.4,,0.88,us,usp000gmeu,2014-11-07T01:37:34.480Z,"3 km SW of Alik Ghund, Pakistan",earthquake,,,,3.0,reviewed,us,us
+2008-10-30T17:30:21.240Z,30.355,67.639,10.0,3.8,mb,10.0,147.4,,1.23,us,usp000gmet,2014-11-07T01:37:34.466Z,"8 km WSW of Ziarat, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2008-10-30T10:16:51.620Z,30.238,67.519,10.0,3.4,mb,13.0,147.5,,1.27,us,usp000gme3,2014-11-07T01:37:34.384Z,"25 km SW of Ziarat, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2008-10-30T10:05:21.150Z,30.404,67.505,10.0,4.5,mb,41.0,147.4,,1.19,us,usp000gme2,2014-11-07T01:37:34.380Z,"9 km S of Alik Ghund, Pakistan",earthquake,,,,3.0,reviewed,us,us
+2008-10-30T08:00:53.520Z,30.838,67.695,10.0,3.4,mb,11.0,147.1,,1.16,us,usp000gmdv,2014-11-07T01:37:34.366Z,"9 km N of Khadan Khak, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2008-10-30T07:16:19.420Z,30.277,67.561,10.0,4.9,mb,89.0,96.0,,1.08,us,usp000gmdr,2014-11-07T01:37:34.346Z,"19 km SW of Ziarat, Pakistan",earthquake,,,,22.0,reviewed,us,us
+2008-10-30T05:40:14.660Z,30.498,67.699,10.0,3.9,mb,29.0,169.8,,1.36,us,usp000gmdj,2014-11-07T01:37:34.330Z,"13 km NNW of Ziarat, Pakistan",earthquake,,,,3.0,reviewed,us,us
+2008-10-30T04:19:34.400Z,29.765,67.852,10.0,3.7,mb,11.0,240.7,,1.44,us,usp000gmdc,2014-11-07T01:37:34.315Z,"24 km N of Sibi, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-10-30T00:15:21.220Z,30.263,67.45,10.0,4.0,mb,21.0,147.5,,0.92,us,usp000gmct,2014-11-07T01:37:34.197Z,"26 km SSW of Alik Ghund, Pakistan",earthquake,,,,4.0,reviewed,us,us
+2008-10-29T21:49:41.020Z,30.247,67.647,10.0,4.4,mb,39.0,147.5,,1.13,us,usp000gmc9,2014-11-07T01:37:34.139Z,"16 km SSW of Ziarat, Pakistan",earthquake,,,,12.0,reviewed,us,us
+2008-10-29T21:48:13.300Z,29.909,67.959,10.0,3.7,mb,10.0,191.4,,1.0,us,usp000gmc8,2014-11-07T01:37:34.138Z,"21 km S of Harnai, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2008-10-29T21:44:17.020Z,30.712,67.086,10.0,3.7,mb,11.0,237.3,,1.03,us,usp000gmc6,2014-11-07T01:37:34.135Z,"16 km NNE of Pishin, Pakistan",earthquake,,,,3.0,reviewed,us,us
+2008-10-29T21:43:37.210Z,30.241,67.286,10.0,3.4,mb,11.0,190.6,,1.11,us,usp000gmc5,2014-11-07T01:37:34.134Z,"28 km ENE of Quetta, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2008-10-29T21:20:20.770Z,30.192,67.542,10.0,3.6,mb,11.0,150.8,,0.97,us,usp000gmc4,2014-11-07T01:37:34.132Z,"27 km SW of Ziarat, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-10-29T20:08:47.860Z,30.495,67.532,10.0,4.4,mb,28.0,204.5,,1.05,us,usp000gmbt,2014-11-07T01:37:34.112Z,"1 km ENE of Alik Ghund, Pakistan",earthquake,,,,8.0,reviewed,us,us
+2008-10-29T19:08:57.170Z,30.462,67.632,10.0,3.4,mb,9.0,314.1,,0.91,us,usp000gmbn,2014-11-07T01:37:34.095Z,"11 km ESE of Alik Ghund, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2008-10-29T18:42:46.310Z,30.354,67.512,10.0,3.6,mb,12.0,147.4,,1.41,us,usp000gmbm,2014-11-07T01:37:34.093Z,"15 km S of Alik Ghund, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2008-10-29T18:06:24.180Z,30.299,67.5,10.0,4.8,mb,49.0,150.7,,1.14,us,usp000gmbg,2014-11-07T01:37:34.074Z,"21 km S of Alik Ghund, Pakistan",earthquake,,,,20.0,reviewed,us,us
+2008-10-29T18:02:16.060Z,30.245,67.491,10.0,3.9,mb,9.0,147.5,,1.15,us,usp000gmbe,2014-11-07T01:37:34.070Z,"27 km SW of Ziarat, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2008-10-29T18:00:26.530Z,30.177,67.563,10.0,4.5,mb,31.0,147.5,,1.47,us,usp000gmbd,2014-11-07T01:37:34.068Z,"27 km SW of Ziarat, Pakistan",earthquake,,,,9.0,reviewed,us,us
+2008-10-29T17:48:52.200Z,30.144,67.562,10.0,4.5,mb,27.0,221.0,,1.09,us,usp000gmbc,2014-11-07T01:37:34.065Z,"30 km SSW of Ziarat, Pakistan",earthquake,,,,9.0,reviewed,us,us
+2008-10-29T17:09:10.370Z,30.381,67.6,10.0,4.6,mb,38.0,147.4,,1.35,us,usp000gmb8,2014-11-07T01:37:34.056Z,"12 km W of Ziarat, Pakistan",earthquake,,,,16.0,reviewed,us,us
+2008-10-29T16:45:11.010Z,30.368,67.599,10.0,4.4,mb,29.0,147.4,,1.54,us,usp000gmb6,2014-11-07T01:37:34.041Z,"12 km W of Ziarat, Pakistan",earthquake,,,,8.0,reviewed,us,us
+2008-10-29T16:37:23.210Z,30.588,67.865,10.0,4.1,mb,29.0,147.3,,1.53,us,usp000gmb4,2014-11-07T01:37:34.036Z,"23 km SE of Khadan Khak, Pakistan",earthquake,,,,8.0,reviewed,us,us
+2008-10-29T16:29:11.730Z,30.324,67.493,10.0,3.3,mb,15.0,147.5,,1.09,us,usp000gmb3,2014-11-07T01:37:34.033Z,"18 km S of Alik Ghund, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-10-29T15:56:35.340Z,30.313,67.766,10.0,4.7,mb,53.0,96.5,,1.17,us,usp000gmb1,2014-11-07T01:37:33.975Z,"8 km SSE of Ziarat, Pakistan",earthquake,,,,14.0,reviewed,us,us
+2008-10-29T15:32:44.910Z,30.268,67.769,10.0,4.3,mb,27.0,147.5,,1.2,us,usp000gmax,2014-11-07T01:37:33.950Z,"13 km SSE of Ziarat, Pakistan",earthquake,,,,7.0,reviewed,us,us
+2008-10-29T15:10:24.480Z,30.244,67.693,10.0,4.0,mb,20.0,147.5,,1.37,us,usp000gmau,2014-11-07T01:37:33.945Z,Pakistan,earthquake,,,,5.0,reviewed,us,us
+2008-10-29T14:03:29.400Z,30.259,67.633,10.0,3.4,mb,13.0,147.5,,0.74,us,usp000gmaq,2014-11-07T01:37:33.940Z,"16 km SSW of Ziarat, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2008-10-29T13:53:06.920Z,30.312,67.566,10.0,4.1,mb,16.0,147.5,,1.02,us,usp000gmap,2014-11-07T01:37:33.938Z,"17 km WSW of Ziarat, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-10-29T13:38:44.910Z,30.265,67.623,10.0,4.6,mb,54.0,144.7,,1.34,us,usp000gmam,2014-11-07T01:37:33.932Z,"16 km SW of Ziarat, Pakistan",earthquake,,,,14.0,reviewed,us,us
+2008-10-29T13:28:38.550Z,30.333,67.659,10.0,3.5,mb,16.0,147.4,,1.11,us,usp000gmak,2014-11-07T01:37:33.931Z,"8 km SW of Ziarat, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-10-29T12:47:39.700Z,30.341,67.458,10.0,4.6,mb,35.0,147.4,,0.95,us,usp000gmad,2014-11-07T01:37:33.921Z,"17 km SSW of Alik Ghund, Pakistan",earthquake,,,,7.0,reviewed,us,us
+2008-10-29T12:30:24.690Z,30.351,67.523,10.0,3.6,mb,20.0,147.4,,0.69,us,usp000gmab,2014-11-07T01:37:33.917Z,"15 km S of Alik Ghund, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2008-10-29T12:16:29.400Z,30.428,67.362,10.0,3.7,mb,19.0,147.4,,0.92,us,usp000gmaa,2014-11-07T01:37:33.915Z,"16 km WSW of Alik Ghund, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2008-10-29T12:11:45.900Z,30.232,67.659,10.0,4.5,mb,45.0,147.5,,1.13,us,usp000gma9,2014-11-07T01:37:33.911Z,"17 km SSW of Ziarat, Pakistan",earthquake,,,,8.0,reviewed,us,us
+2008-10-29T12:03:20.160Z,30.354,67.531,10.0,4.5,mb,36.0,144.7,,0.75,us,usp000gma8,2014-11-07T01:37:33.908Z,"15 km S of Alik Ghund, Pakistan",earthquake,,,,6.0,reviewed,us,us
+2008-10-29T11:56:20.500Z,30.401,67.386,10.0,4.3,mb,23.0,147.4,,1.18,us,usp000gma5,2014-11-07T01:37:33.903Z,"16 km SW of Alik Ghund, Pakistan",earthquake,,,,4.0,reviewed,us,us
+2008-10-29T11:51:02.750Z,30.375,67.368,10.0,3.8,mb,17.0,142.4,,0.78,us,usp000gma4,2014-11-07T01:37:33.901Z,"19 km SW of Alik Ghund, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-10-29T11:32:43.130Z,30.598,67.455,14.0,6.4,mwc,277.0,26.7,,1.43,us,usp000gma2,2020-07-08T02:16:59.574Z,"13 km NNW of Alik Ghund, Pakistan",earthquake,,,,,reviewed,us,us
+2008-10-29T09:44:17.620Z,30.454,67.491,10.0,3.8,mb,24.0,147.4,,0.73,us,usp000gm9y,2014-11-07T01:37:33.835Z,"4 km SW of Alik Ghund, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-10-29T07:59:00.010Z,30.377,67.532,10.0,4.8,mb,45.0,96.4,,1.21,us,usp000gm9r,2014-11-07T01:37:33.820Z,"12 km S of Alik Ghund, Pakistan",earthquake,,,,11.0,reviewed,us,us
+2008-10-29T07:07:41.830Z,30.326,67.607,10.0,4.7,mb,41.0,147.4,,1.3,us,usp000gm9n,2014-11-07T01:37:33.813Z,"13 km WSW of Ziarat, Pakistan",earthquake,,,,16.0,reviewed,us,us
+2008-10-29T06:43:26.160Z,30.462,67.658,10.0,4.8,mb,37.0,147.4,,1.18,us,usp000gm9m,2014-11-07T01:37:33.810Z,"10 km NW of Ziarat, Pakistan",earthquake,,,,9.0,reviewed,us,us
+2008-10-29T06:15:19.580Z,30.315,67.619,10.0,4.7,mb,37.0,147.4,,1.23,us,usp000gm9k,2014-11-07T01:37:33.806Z,"12 km SW of Ziarat, Pakistan",earthquake,,,,11.0,reviewed,us,us
+2008-10-29T04:49:17.280Z,30.143,67.608,10.0,3.6,mb,15.0,239.5,,0.97,us,usp000gm9g,2014-11-07T01:37:33.802Z,"28 km SSW of Ziarat, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-10-29T04:48:44.610Z,30.579,67.226,10.0,3.6,mb,11.0,237.8,,0.99,us,usp000gm9e,2014-11-07T01:37:33.799Z,"22 km E of Pishin, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2008-10-29T04:18:35.210Z,30.078,67.721,10.0,3.5,mb,8.0,239.8,,1.4,us,usp000gm9c,2014-11-07T01:37:33.796Z,"21 km W of Harnai, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2008-10-29T03:50:16.140Z,30.708,67.915,10.0,3.8,mb,20.0,242.5,,1.03,us,usp000gm9b,2014-11-07T01:37:33.794Z,"20 km ESE of Khadan Khak, Pakistan",earthquake,,,,3.0,reviewed,us,us
+2008-10-29T02:58:47.020Z,30.56,67.364,10.0,4.6,mb,78.0,96.3,,0.76,us,usp000gm96,2014-11-07T01:37:33.779Z,"17 km WNW of Alik Ghund, Pakistan",earthquake,,,,23.0,reviewed,us,us
+2008-10-29T01:54:17.260Z,30.348,67.587,10.0,4.3,mb,39.0,144.7,,1.35,us,usp000gm90,2014-11-07T01:37:33.760Z,"13 km WSW of Ziarat, Pakistan",earthquake,,,,6.0,reviewed,us,us
+2008-10-29T01:54:02.010Z,30.376,67.578,10.0,3.6,mb,15.0,147.4,,1.01,us,usp000gm8z,2014-11-07T01:37:33.757Z,"13 km SSE of Alik Ghund, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-10-29T01:42:36.880Z,30.538,67.443,10.0,4.1,mb,26.0,147.3,,0.93,us,usp000gm8x,2014-11-07T01:37:33.681Z,"9 km NW of Alik Ghund, Pakistan",earthquake,,,,4.0,reviewed,us,us
+2008-10-29T01:27:40.720Z,29.902,67.79,10.0,3.7,mb,17.0,240.3,,1.33,us,usp000gm8v,2014-11-07T01:37:33.481Z,"26 km SSW of Harnai, Pakistan",earthquake,,,,3.0,reviewed,us,us
+2008-10-29T01:22:22.490Z,30.442,67.393,10.0,3.6,mb,21.0,147.4,,1.05,us,usp000gm8u,2014-11-07T01:37:33.479Z,"13 km WSW of Alik Ghund, Pakistan",earthquake,,,,3.0,reviewed,us,us
+2008-10-29T01:12:24.560Z,30.544,67.788,10.0,4.1,mb,39.0,144.6,,1.29,us,usp000gm8t,2014-11-07T01:37:33.473Z,"18 km NNE of Ziarat, Pakistan",earthquake,,,,5.0,reviewed,us,us
+2008-10-29T00:31:55.580Z,30.42,67.684,10.0,4.8,mb,64.0,96.4,,0.96,us,usp000gm8q,2014-11-07T01:37:33.385Z,"5 km NW of Ziarat, Pakistan",earthquake,,,,20.0,reviewed,us,us
+2008-10-29T00:12:26.080Z,30.618,67.682,10.0,4.1,mb,23.0,191.0,,0.86,us,usp000gm8p,2014-11-07T01:37:33.322Z,"15 km S of Khadan Khak, Pakistan",earthquake,,,,4.0,reviewed,us,us
+2008-10-28T23:42:38.940Z,30.114,67.767,10.0,3.7,mb,14.0,239.8,,0.71,us,usp000gm8j,2014-11-07T01:37:33.302Z,"16 km W of Harnai, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-10-28T23:28:52.420Z,30.125,67.823,10.0,4.2,mb,11.0,184.6,,0.79,us,usp000gm8h,2014-11-07T01:37:33.299Z,"11 km WNW of Harnai, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2008-10-28T23:09:57.650Z,30.639,67.351,15.0,6.4,mwc,365.0,23.9,,0.84,us,usp000gm8g,2020-07-08T02:16:29.992Z,"23 km NW of Alik Ghund, Pakistan",earthquake,,,,,reviewed,us,us
+2008-10-28T22:33:08.530Z,30.563,67.444,10.0,5.3,mwc,148.0,36.8,,0.84,us,usp000gm8d,2016-11-10T02:03:19.461Z,"11 km NW of Alik Ghund, Pakistan",earthquake,,,,,reviewed,us,gcmt
+2008-04-07T11:48:16.920Z,31.632,67.154,10.0,4.3,mb,27.0,167.9,,0.99,us,usp000g39y,2014-11-07T01:35:33.040Z,"57 km SSE of Qal?t, Afghanistan",earthquake,,,,4.0,reviewed,us,us
+2008-03-09T09:27:37.980Z,29.839,67.71,10.0,4.4,mb,23.0,151.0,,0.82,us,usp000g11e,2014-11-07T01:35:13.201Z,"36 km SW of Harnai, Pakistan",earthquake,,,,4.0,reviewed,us,us
+2008-02-26T16:10:28.250Z,30.988,67.191,35.0,4.0,mb,19.0,250.6,,1.33,us,usp000g015,2014-11-07T01:35:04.017Z,"48 km NNE of Pishin, Pakistan",earthquake,,,,7.0,reviewed,us,us
+2008-02-03T06:17:22.870Z,29.732,67.645,10.0,4.0,mb,22.0,147.8,,1.33,us,usp000fy1w,2014-11-07T01:34:52.803Z,"28 km N of Dadhar, Pakistan",earthquake,,,,3.0,reviewed,us,us
+2007-10-20T06:55:38.360Z,28.503,66.01,35.0,3.9,mb,15.0,148.7,,1.14,us,usp000fqxx,2014-11-07T01:33:57.894Z,"24 km W of Surab, Pakistan",earthquake,,,,4.0,reviewed,us,us
+2007-10-19T07:19:54.780Z,28.65,66.29,35.0,5.5,mwc,157.0,65.4,,1.35,us,usp000fqw1,2020-09-18T21:51:12.728Z,"17 km N of Surab, Pakistan",earthquake,,,,,reviewed,us,gcmt
+2007-10-06T17:28:53.290Z,29.69,67.957,10.0,4.3,mb,14.0,241.1,,1.6,us,usp000fq0m,2014-11-07T01:33:51.638Z,"18 km NNE of Sibi, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2007-09-11T10:28:24.300Z,29.376,66.415,10.0,4.4,mb,17.0,148.1,,1.43,us,usp000fmws,2014-11-07T01:33:32.804Z,"42 km NNW of Kalat, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2007-08-08T03:28:41.380Z,28.139,65.857,24.6,4.5,mb,76.0,145.7,,0.96,us,usp000fj52,2014-11-07T01:33:13.147Z,"55 km SW of Surab, Pakistan",earthquake,,39.8,,35.0,reviewed,us,us
+2007-06-30T00:24:59.420Z,28.229,65.8,10.0,3.8,mb,14.0,148.9,,0.69,us,usp000ff4n,2014-11-07T01:32:47.331Z,"53 km WSW of Surab, Pakistan",earthquake,,,,3.0,reviewed,us,us
+2006-10-09T05:12:50.950Z,30.941,66.541,10.0,4.4,mb,16.0,137.4,,1.01,us,usp000eurm,2020-09-18T21:12:28.847Z,"8 km ENE of Chaman, Pakistan",earthquake,,,,5.0,reviewed,us,us
+2006-09-25T12:59:13.310Z,29.983,67.997,10.0,3.9,mb,12.0,204.5,,1.22,us,usp000etsz,2014-11-07T01:30:16.610Z,"14 km SSE of Harnai, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2006-08-17T12:24:13.800Z,29.568,67.9,32.9,4.7,mb,76.0,80.3,,0.89,us,usp000er5q,2014-11-07T01:29:59.220Z,"3 km NE of Sibi, Pakistan",earthquake,,,,26.0,reviewed,us,us
+2006-08-16T15:55:29.100Z,29.383,67.888,20.0,3.8,mb,19.0,113.4,,1.2,us,usp000er2m,2014-11-07T01:29:58.640Z,"17 km S of Sibi, Pakistan",earthquake,,0.0,,2.0,reviewed,us,us
+2006-08-11T12:10:26.440Z,29.44,67.822,10.0,4.2,mb,14.0,113.0,,0.96,us,usp000eqq9,2014-11-07T01:29:56.807Z,"12 km SSW of Sibi, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2006-02-12T19:52:26.820Z,28.831,66.638,10.0,3.8,mb,16.0,190.0,,0.75,us,usp000e9zc,2014-11-07T01:28:18.165Z,"22 km SSE of Kalat, Pakistan",earthquake,,,,4.0,reviewed,us,us
+2006-02-06T21:11:11.980Z,30.35,66.692,10.0,4.0,mb,15.0,131.6,,0.97,us,usp000e9nn,2014-11-07T01:28:17.052Z,"32 km WNW of Kot Malik Barkhurdar, Pakistan",earthquake,,,,7.0,reviewed,us,us
+2006-01-28T23:52:29.580Z,28.605,66.437,10.0,3.7,mb,7.0,230.7,,1.05,us,usp000e91k,2014-11-07T01:28:10.385Z,"21 km NE of Surab, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2005-12-11T15:37:29.770Z,29.673,67.665,10.0,4.1,mb,18.0,148.2,,0.76,us,usp000e5zj,2014-11-07T01:27:52.840Z,"21 km N of Dadhar, Pakistan",earthquake,,,,3.0,reviewed,us,us
+2005-11-08T19:49:29.150Z,31.714,66.833,10.0,3.6,mb,7.0,290.4,,0.79,us,usp000e3sq,2014-11-07T01:27:37.237Z,"44 km S of Qal?t, Afghanistan",earthquake,,0.0,,2.0,reviewed,us,us
+2005-10-21T08:03:59.150Z,31.961,67.55,10.0,5.0,mwc,26.0,124.4,,0.88,us,usp000e2dr,2016-11-10T01:13:23.319Z,"62 km ESE of Qal?t, Afghanistan",earthquake,,0.0,,,reviewed,us,hrv
+2005-09-18T18:41:41.270Z,28.585,65.036,10.0,4.7,mb,111.0,97.8,,0.99,us,usp000dzpn,2014-11-07T01:27:05.720Z,"37 km W of Kharan, Pakistan",earthquake,,,,70.0,reviewed,us,us
+2005-05-23T11:57:31.420Z,30.754,67.494,35.0,3.7,mb,9.0,193.9,,0.88,us,usp000dreb,2014-11-07T01:25:57.622Z,"20 km W of Khadan Khak, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2005-05-23T04:13:45.270Z,30.271,67.804,24.3,5.2,mwc,153.0,78.8,,1.01,us,usp000drdt,2016-11-10T01:06:29.953Z,"14 km SSE of Ziarat, Pakistan",earthquake,,,,,reviewed,us,hrv
+2005-03-02T11:49:35.850Z,29.692,67.899,20.0,4.1,mb,19.0,232.2,,0.88,us,usp000dhc8,2014-11-07T01:25:09.735Z,"16 km N of Sibi, Pakistan",earthquake,,0.0,,3.0,reviewed,us,us
+2004-07-22T03:56:34.000Z,28.645,65.316,10.0,5.1,mwc,279.0,106.2,,0.91,us,usp000d0nu,2016-11-10T00:40:56.880Z,"11 km NW of Kharan, Pakistan",earthquake,,0.0,,,reviewed,us,hrv
+2004-07-21T23:55:57.610Z,29.283,67.82,10.0,4.0,mb,15.0,208.8,,0.8,us,usp000d0nd,2014-11-07T01:22:56.840Z,"26 km N of Bhag, Pakistan",earthquake,,,,6.0,reviewed,us,us
+2004-07-19T13:39:57.810Z,29.557,67.713,23.0,4.8,mb,96.0,82.0,,1.04,us,usp000d0gb,2014-11-07T01:22:55.870Z,"10 km NNE of Dadhar, Pakistan",earthquake,,,,59.0,reviewed,us,us
+2004-06-17T18:52:42.340Z,30.298,67.82,65.7,4.5,mb,78.0,71.4,,1.03,us,usp000cy4j,2014-11-07T01:22:38.614Z,"13 km SE of Ziarat, Pakistan",earthquake,,16.7,,30.0,reviewed,us,us
+2004-06-17T05:08:27.710Z,30.177,67.564,25.0,4.5,mb,13.0,139.7,,1.04,us,usp000cy2t,2014-11-07T01:22:38.456Z,"27 km SW of Ziarat, Pakistan",earthquake,,0.0,,4.0,reviewed,us,us
+2004-05-08T20:11:44.200Z,30.126,67.121,10.0,4.5,mb,58.0,82.6,,1.37,us,usp000cugd,2020-09-18T19:55:28.785Z,"13 km ESE of Quetta, Pakistan",earthquake,,,,16.0,reviewed,us,us
+2004-04-24T02:09:27.850Z,30.331,66.486,10.0,4.3,mb,26.0,90.3,,1.07,us,usp000ct8d,2014-11-07T01:22:04.819Z,"50 km WNW of Kot Malik Barkhurdar, Pakistan",earthquake,,,,11.0,reviewed,us,us
+2004-03-24T12:42:35.060Z,30.371,66.449,30.9,4.0,mb,14.0,105.3,,0.87,us,usp000cqsp,2014-11-07T01:21:46.629Z,"54 km WNW of Kot Malik Barkhurdar, Pakistan",earthquake,,41.7,,4.0,reviewed,us,us
+2004-01-17T14:02:53.720Z,29.353,66.652,10.0,4.1,mb,14.0,176.7,,1.49,us,usp000cj3n,2014-11-07T01:21:05.554Z,"36 km N of Kalat, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2003-12-01T18:53:28.620Z,31.792,67.888,33.0,3.7,mb,10.0,203.5,,1.07,us,usp000cea8,2014-11-07T01:20:38.818Z,"98 km ESE of Qal?t, Afghanistan",earthquake,,,,1.0,reviewed,us,us
+2003-01-29T11:49:34.300Z,30.432,67.578,33.0,4.0,mb,11.0,,,0.97,us,usp000bphg,2014-11-07T01:17:39.529Z,"8 km SE of Alik Ghund, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2002-06-28T10:18:55.440Z,28.376,66.477,33.0,4.6,mb,46.0,,,0.92,us,usp000b73a,2014-11-07T01:15:54.594Z,"24 km ESE of Surab, Pakistan",earthquake,,,,29.0,reviewed,us,us
+2002-05-14T00:31:04.880Z,30.289,67.92,33.0,3.9,mb,14.0,,,1.22,us,usp000b49k,2014-11-07T01:15:37.353Z,"20 km N of Harnai, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2002-05-13T23:06:40.530Z,30.233,67.984,33.0,4.4,mb,39.0,,,0.94,us,usp000b49g,2014-11-07T01:15:37.343Z,"15 km NNE of Harnai, Pakistan",earthquake,,,,16.0,reviewed,us,us
+2002-03-16T20:05:18.310Z,29.86,66.318,33.0,3.7,mb,6.0,,,1.05,us,usp000b0ez,2014-11-07T01:15:10.096Z,"44 km NE of Nushki, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2002-02-26T06:38:36.490Z,29.661,66.564,33.0,4.4,mb,27.0,,,1.12,us,usp000az79,2014-11-07T01:14:58.105Z,"31 km WSW of Mastung, Pakistan",earthquake,,,,4.0,reviewed,us,us
+2001-11-29T04:28:54.010Z,30.219,67.663,33.0,4.4,mb,7.0,,,0.86,us,usp000atp5,2014-11-07T01:14:19.821Z,"19 km SSW of Ziarat, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2001-08-14T21:19:28.880Z,29.939,65.268,33.0,4.8,mb,129.0,,,1.39,us,usp000amfv,2014-11-07T01:13:33.714Z,"84 km WNW of Nushki, Pakistan",earthquake,,,,72.0,reviewed,us,us
+2001-08-10T14:25:11.890Z,29.727,67.09,33.0,4.3,mb,17.0,,,1.39,us,usp000am5x,2014-11-07T01:13:31.294Z,"24 km ESE of Mastung, Pakistan",earthquake,,,,3.0,reviewed,us,us
+2001-05-24T00:21:15.350Z,30.34,67.732,33.0,4.7,mb,91.0,,,1.16,us,usp000afe1,2014-11-07T01:12:50.026Z,"4 km S of Ziarat, Pakistan",earthquake,,,,61.0,reviewed,us,us
+2001-04-06T17:53:12.470Z,29.459,66.597,33.0,4.0,mb,15.0,,,0.94,us,usp000acq6,2014-11-07T01:12:32.463Z,"44 km SSW of Mastung, Pakistan",earthquake,,,,4.0,reviewed,us,us
+2001-03-29T16:19:03.940Z,29.788,66.765,33.0,4.2,mb,17.0,,,0.88,us,usp000ac6f,2014-11-07T01:12:26.478Z,"7 km W of Mastung, Pakistan",earthquake,,,,4.0,reviewed,us,us
+2001-02-22T07:54:39.670Z,31.879,67.284,33.0,4.5,mb,38.0,,,1.2,us,usp000aa3y,2014-11-07T01:12:10.908Z,"43 km SE of Qal?t, Afghanistan",earthquake,,,,14.0,reviewed,us,us
+2000-08-22T00:14:31.490Z,30.601,66.654,33.0,4.2,mb,28.0,,,1.28,us,usp0009yxh,2014-11-07T01:10:54.018Z,Afghanistan-Pakistan border region,earthquake,,,,4.0,reviewed,us,us
+2000-07-01T02:55:33.470Z,30.149,67.749,42.2,4.2,mb,12.0,,,1.02,us,usp0009vgx,2014-11-07T01:10:28.146Z,"19 km WNW of Harnai, Pakistan",earthquake,,12.2,,2.0,reviewed,us,us
+2000-06-04T17:52:15.990Z,28.723,65.383,33.0,6.0,mb,331.0,,,1.23,us,usp0009ty9,2020-09-15T21:24:02.985Z,"15 km NNW of Kharan, Pakistan",earthquake,,,,119.0,reviewed,us,us
+2000-04-11T10:46:59.990Z,31.019,67.738,33.0,3.8,mb,,,,0.9,us,usp0009r50,2014-11-07T01:09:52.968Z,"29 km N of Khadan Khak, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2000-03-21T22:17:55.490Z,30.401,67.886,33.0,3.8,mb,,,,1.08,us,usp0009q0c,2014-11-07T01:09:44.035Z,"15 km E of Ziarat, Pakistan",earthquake,,,,2.0,reviewed,us,us
+2000-03-05T02:54:22.990Z,30.502,67.826,33.0,3.8,mb,,,,0.67,us,usp0009p9g,2014-11-07T01:09:39.158Z,"16 km NE of Ziarat, Pakistan",earthquake,,,,1.0,reviewed,us,us
+2000-02-17T09:44:09.960Z,29.581,67.121,33.0,4.6,mb,,,,1.21,us,usp0009njy,2014-11-07T01:09:31.308Z,"36 km SE of Mastung, Pakistan",earthquake,,,,12.0,reviewed,us,us
+2000-02-08T23:44:17.740Z,29.012,66.815,33.0,3.8,mb,,,,1.26,us,usp0009n7t,2014-11-07T01:09:28.976Z,"21 km E of Kalat, Pakistan",earthquake,,,,4.0,reviewed,us,us
+2000-01-22T09:14:50.010Z,31.987,67.243,33.0,4.1,mb,,,,1.45,us,usp0009mgj,2014-11-07T01:09:21.312Z,"34 km ESE of Qal?t, Afghanistan",earthquake,,,,1.0,reviewed,us,us
+1999-12-27T04:59:42.730Z,30.136,67.963,33.0,4.0,mb,,,,0.89,us,usp0009kbu,2014-11-07T01:09:11.858Z,"4 km NNE of Harnai, Pakistan",earthquake,,,,2.0,reviewed,us,us
+1999-07-07T23:00:43.360Z,30.252,67.637,33.0,4.0,mb,,,,1.25,us,usp0009b8h,2014-11-07T01:08:04.407Z,"16 km SSW of Ziarat, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1999-06-02T19:06:34.050Z,30.136,67.753,33.0,4.5,mb,,,,1.44,us,usp000996p,2014-11-07T01:07:49.710Z,"18 km WNW of Harnai, Pakistan",earthquake,,,,3.0,reviewed,us,us
+1999-04-16T16:14:37.210Z,30.811,67.49,33.0,3.8,mb,,,,1.1,us,usp00096dr,2014-11-07T01:07:28.628Z,"22 km WNW of Khadan Khak, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1999-02-23T04:06:54.710Z,30.526,66.32,10.0,4.0,mb,,,,0.78,us,usp0009390,2014-11-07T01:07:04.094Z,"45 km SSW of Chaman, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1998-11-27T00:29:50.360Z,29.759,67.316,10.0,4.5,mb,,,,1.2,us,usp0008yt4,2014-11-07T01:06:30.222Z,"11 km S of Mach, Pakistan",earthquake,,,,20.0,reviewed,us,us
+1998-07-14T19:10:34.800Z,30.117,67.679,33.0,4.0,mb,,,,1.07,us,usp0008rh0,2014-11-07T01:05:35.855Z,"25 km W of Harnai, Pakistan",earthquake,,,,2.0,reviewed,us,us
+1998-07-14T19:02:55.090Z,29.842,67.93,33.0,4.4,mb,,,,1.24,us,usp0008rgy,2014-11-07T01:05:35.850Z,"28 km S of Harnai, Pakistan",earthquake,,,,5.0,reviewed,us,us
+1998-07-14T14:25:02.580Z,30.035,67.734,32.5,4.8,mb,,,,1.25,us,usp0008rgh,2014-11-07T01:05:35.809Z,"20 km WSW of Harnai, Pakistan",earthquake,,,,26.0,reviewed,us,us
+1998-07-14T13:04:56.560Z,30.331,67.486,25.0,3.9,mb,,,,0.96,us,usp0008rgd,2014-11-07T01:05:35.780Z,"17 km S of Alik Ghund, Pakistan",earthquake,,,,2.0,reviewed,us,us
+1998-07-14T13:03:49.710Z,30.231,67.762,31.1,4.6,mb,,,,1.06,us,usp0008rgb,2014-11-07T01:05:35.770Z,"17 km SSE of Ziarat, Pakistan",earthquake,,,,9.0,reviewed,us,us
+1998-07-14T05:45:59.170Z,30.039,67.837,33.0,4.3,mb,,,,1.09,us,usp0008rfr,2014-11-07T01:05:35.412Z,"11 km SW of Harnai, Pakistan",earthquake,,,,2.0,reviewed,us,us
+1998-07-14T01:01:22.180Z,30.085,67.808,33.0,4.5,mb,,,,0.88,us,usp0008rfb,2014-11-07T01:05:35.362Z,"12 km W of Harnai, Pakistan",earthquake,,,,8.0,reviewed,us,us
+1998-07-13T23:12:35.220Z,30.76,67.722,33.0,4.0,mb,,,,1.15,us,usp0008rf4,2014-11-07T01:05:35.348Z,"1 km NE of Khadan Khak, Pakistan",earthquake,,,,3.0,reviewed,us,us
+1998-07-12T22:15:54.550Z,30.029,67.799,33.0,4.9,mb,,,,0.98,us,usp0008rd1,2014-11-07T01:05:35.029Z,"15 km WSW of Harnai, Pakistan",earthquake,,,,63.0,reviewed,us,us
+1998-07-12T20:52:16.150Z,30.104,67.808,33.0,5.0,mwc,,,,0.88,us,usp0008rcw,2016-11-09T22:58:24.073Z,"12 km W of Harnai, Pakistan",earthquake,,,,,reviewed,us,hrv
+1998-06-21T15:57:44.500Z,30.158,67.961,33.0,4.8,mb,,,,0.87,us,usp0008q8g,2014-11-07T01:05:26.055Z,"6 km NNE of Harnai, Pakistan",earthquake,,,,47.0,reviewed,us,us
+1998-05-28T20:16:55.470Z,30.119,67.816,27.0,4.4,mb,,,,1.12,us,usp0008nw0,2014-11-07T01:05:16.587Z,"11 km W of Harnai, Pakistan",earthquake,,,,6.0,reviewed,us,us
+1998-05-28T10:16:15.230Z,28.902,64.789,0.0,4.8,mb,,,,1.08,us,usp0008nv3,2014-11-07T01:05:16.446Z,"37 km E of Dalbandin, Pakistan",nuclear explosion,,,,55.0,reviewed,us,us
+1998-05-17T05:41:11.380Z,30.377,67.946,33.0,4.2,mb,,,,1.32,us,usp0008n8e,2014-11-07T01:05:13.907Z,"21 km E of Ziarat, Pakistan",earthquake,,,,2.0,reviewed,us,us
+1998-05-02T03:49:29.920Z,31.058,67.766,33.0,3.8,mb,,,,0.46,us,usp0008m9w,2014-11-07T01:05:08.871Z,"34 km N of Khadan Khak, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1998-05-01T02:02:17.640Z,30.962,67.935,33.0,3.9,mb,,,,1.14,us,usp0008m7g,2014-11-07T01:05:07.142Z,"31 km NE of Khadan Khak, Pakistan",earthquake,,,,2.0,reviewed,us,us
+1998-04-21T13:52:12.720Z,28.49,66.547,33.0,4.0,mb,,,,0.87,us,usp0008kpy,2014-11-07T01:05:02.488Z,"28 km E of Surab, Pakistan",earthquake,,,,3.0,reviewed,us,us
+1998-03-03T00:11:44.820Z,31.161,67.556,33.0,3.7,mb,,,,1.4,us,usp0008guw,2014-11-07T01:04:39.432Z,"47 km NNW of Khadan Khak, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1998-02-17T19:15:27.790Z,29.848,67.861,33.0,3.9,mb,,,,1.22,us,usp0008g4v,2014-11-07T01:04:33.767Z,"28 km SSW of Harnai, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1998-02-13T21:02:35.910Z,30.118,67.851,33.0,4.1,mb,,,,1.26,us,usp0008fyb,2014-11-07T01:04:32.784Z,Pakistan,earthquake,,,,2.0,reviewed,us,us
+1998-02-13T13:08:49.680Z,30.196,67.965,33.0,4.1,mb,,,,1.19,us,usp0008fxh,2014-11-07T01:04:32.714Z,"10 km NNE of Harnai, Pakistan",earthquake,,,,3.0,reviewed,us,us
+1998-01-05T16:58:35.290Z,29.013,64.352,18.5,5.2,mwc,,,,1.25,us,usp0008dt0,2016-11-09T21:36:24.674Z,"14 km NNW of Dalbandin, Pakistan",earthquake,,,,,reviewed,us,hrv
+1998-01-01T18:12:25.490Z,29.142,66.301,10.0,4.4,mb,,,,1.07,us,usp0008dk5,2014-11-07T01:04:15.087Z,"31 km WNW of Kalat, Pakistan",earthquake,,,,5.0,reviewed,us,us
+1997-12-04T10:17:01.330Z,29.092,64.11,33.0,5.1,mwc,,,,1.11,us,usp0008br4,2016-11-10T00:07:30.784Z,"36 km NW of Dalbandin, Pakistan",earthquake,,,,,reviewed,us,hrv
+1997-10-03T13:13:58.580Z,29.959,67.997,17.0,4.4,mb,,,,1.29,us,usp00088ew,2014-11-07T01:03:36.331Z,"16 km SSE of Harnai, Pakistan",earthquake,,,,8.0,reviewed,us,us
+1997-09-07T20:06:43.800Z,30.006,67.697,33.0,4.1,mb,,,,0.57,us,usp000878z,2014-11-07T01:03:27.823Z,"25 km WSW of Harnai, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-09-07T19:58:08.340Z,30.594,67.561,33.0,4.0,mb,,,,1.19,us,usp000878y,2014-11-07T01:03:27.821Z,"12 km NNE of Alik Ghund, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-09-07T15:56:25.270Z,29.921,67.789,33.0,4.0,mb,,,,0.63,us,usp000878m,2014-11-07T01:03:27.799Z,"24 km SW of Harnai, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-09-07T10:41:03.630Z,29.877,67.695,33.0,4.3,mb,,,,0.92,us,usp0008785,2014-11-07T01:03:27.733Z,"34 km SW of Harnai, Pakistan",earthquake,,,,4.0,reviewed,us,us
+1997-09-07T10:15:24.930Z,30.041,67.795,33.0,5.4,mwc,,,,0.96,us,usp0008784,2016-11-09T23:25:55.456Z,"15 km WSW of Harnai, Pakistan",earthquake,,,,,reviewed,us,hrv
+1997-08-25T14:13:22.490Z,31.058,67.772,33.0,3.8,mb,,,,1.35,us,usp00086py,2014-11-07T01:03:20.654Z,"34 km N of Khadan Khak, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-08-24T16:51:08.630Z,30.153,67.794,33.0,4.2,mb,,,,1.3,us,usp00086nv,2014-11-07T01:03:20.193Z,"15 km WNW of Harnai, Pakistan",earthquake,,,,12.0,reviewed,us,us
+1997-08-24T15:12:00.890Z,29.982,67.874,33.0,4.5,mb,,,,0.99,us,usp00086ns,2014-11-07T01:03:20.183Z,"14 km SSW of Harnai, Pakistan",earthquake,,,,11.0,reviewed,us,us
+1997-07-10T11:28:09.860Z,30.395,67.358,33.0,4.0,mb,,,,1.25,us,usp00084nb,2014-11-07T01:03:07.187Z,"18 km SW of Alik Ghund, Pakistan",earthquake,,,,2.0,reviewed,us,us
+1997-06-20T23:04:43.950Z,29.639,65.789,33.0,4.1,mb,,,,1.08,us,usp00083sa,2014-11-07T01:02:59.015Z,"24 km WNW of Nushki, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-06-08T00:11:54.630Z,30.366,67.854,33.0,4.1,mb,,,,1.03,us,usp0008394,2014-11-07T01:02:54.452Z,"12 km E of Ziarat, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-05-15T12:35:46.990Z,29.929,67.728,33.0,4.5,mb,,,,1.5,us,usp00082bd,2014-11-07T01:02:46.996Z,"27 km SW of Harnai, Pakistan",earthquake,,,,9.0,reviewed,us,us
+1997-05-07T03:04:51.790Z,29.496,67.693,33.0,4.5,mb,,,,0.99,us,usp00081vz,2014-11-07T01:02:44.961Z,"4 km ENE of Dadhar, Pakistan",earthquake,,,,8.0,reviewed,us,us
+1997-05-02T06:14:50.130Z,29.919,67.812,33.0,4.3,mb,,,,1.04,us,usp00081m9,2014-11-07T01:02:42.888Z,"23 km SSW of Harnai, Pakistan",earthquake,,,,7.0,reviewed,us,us
+1997-04-14T13:36:49.930Z,30.055,67.92,33.0,3.9,mb,,,,1.12,us,usp00080jq,2014-11-07T01:02:34.182Z,"5 km SSW of Harnai, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-04-04T09:56:43.600Z,30.212,67.948,33.0,3.8,mb,,,,1.02,us,usp0007zy0,2014-11-07T01:02:29.974Z,"12 km N of Harnai, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-03-28T21:52:25.930Z,30.078,67.989,33.0,4.1,mb,,,,0.93,us,usp0007znb,2014-11-07T01:02:24.036Z,"5 km ESE of Harnai, Pakistan",earthquake,,,,3.0,reviewed,us,us
+1997-03-22T23:48:50.180Z,29.944,67.59,33.0,3.9,mb,,,,0.78,us,usp0007z9k,2014-11-07T01:02:22.027Z,"26 km ENE of Mach, Pakistan",earthquake,,,,2.0,reviewed,us,us
+1997-03-22T12:53:50.030Z,29.755,67.78,33.0,4.3,mb,,,,0.8,us,usp0007z8y,2014-11-07T01:02:21.952Z,"25 km NNW of Sibi, Pakistan",earthquake,,,,8.0,reviewed,us,us
+1997-03-22T06:19:52.160Z,30.075,67.93,33.0,4.8,mb,,,,0.8,us,usp0007z8g,2014-11-07T01:02:21.915Z,"2 km SSW of Harnai, Pakistan",earthquake,,,,40.0,reviewed,us,us
+1997-03-21T15:46:34.840Z,30.081,67.914,33.0,4.4,mb,,,,1.05,us,usp0007z79,2014-11-07T01:02:21.702Z,"3 km SW of Harnai, Pakistan",earthquake,,,,5.0,reviewed,us,us
+1997-03-21T04:50:48.990Z,30.214,67.952,33.0,4.4,mb,,,,0.96,us,usp0007z6h,2014-11-07T01:02:21.607Z,"12 km N of Harnai, Pakistan",earthquake,,,,13.0,reviewed,us,us
+1997-03-20T19:09:58.320Z,30.127,67.991,33.0,4.4,mb,,,,0.95,us,usp0007z5y,2014-11-07T01:02:21.461Z,"5 km ENE of Harnai, Pakistan",earthquake,,,,10.0,reviewed,us,us
+1997-03-20T15:59:34.340Z,30.047,67.966,33.0,3.8,mb,,,,0.89,us,usp0007z5r,2014-11-07T01:02:21.430Z,"6 km SSE of Harnai, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-03-20T09:03:13.020Z,30.141,67.964,33.0,3.6,mb,,,,1.12,us,usp0007z54,2014-11-07T01:02:21.361Z,"5 km NNE of Harnai, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-03-20T05:00:44.340Z,30.0,67.733,33.0,4.0,mb,,,,0.99,us,usp0007z4p,2014-11-07T01:02:21.299Z,"22 km WSW of Harnai, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-03-19T11:15:50.550Z,30.326,67.961,33.0,4.7,mb,,,,1.46,us,usp0007z2u,2014-11-07T01:02:21.065Z,"23 km ESE of Ziarat, Pakistan",earthquake,,,,23.0,reviewed,us,us
+1997-03-13T20:38:12.850Z,30.032,67.82,33.0,4.6,ms,,,,0.87,us,usp0007ysx,2014-11-07T01:02:19.658Z,"13 km SW of Harnai, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-03-13T01:25:56.840Z,29.806,67.928,33.0,3.8,mb,,,,1.12,us,usp0007yr0,2014-11-07T01:02:19.463Z,"29 km N of Sibi, Pakistan",earthquake,,,,2.0,reviewed,us,us
+1997-03-11T10:47:58.630Z,30.027,66.99,33.0,3.7,mb,,,,1.19,us,usp0007yng,2014-11-07T01:02:19.148Z,"17 km S of Quetta, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-03-09T08:39:49.780Z,29.805,67.795,33.0,3.3,mb,,,,0.99,us,usp0007yje,2014-11-07T01:02:18.739Z,"30 km NNW of Sibi, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-03-07T13:52:48.600Z,29.827,67.726,33.0,3.7,mb,,,,1.07,us,usp0007yf3,2014-11-07T01:02:18.371Z,"34 km NNW of Sibi, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-03-05T17:26:33.870Z,30.506,67.695,33.0,3.7,mb,,,,1.07,us,usp0007yb9,2014-11-07T01:02:17.857Z,"14 km NNW of Ziarat, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-03-04T09:56:28.440Z,30.369,67.724,33.0,3.6,mb,,,,1.18,us,usp0007y8j,2014-11-07T01:02:16.953Z,"1 km S of Ziarat, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-03-03T13:06:53.780Z,29.91,67.801,33.0,3.8,mb,,,,0.93,us,usp0007y6t,2014-11-07T01:02:16.383Z,"24 km SSW of Harnai, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-03-03T06:51:10.610Z,30.341,67.959,33.0,3.8,mb,,,,0.95,us,usp0007y68,2014-11-07T01:02:16.225Z,"22 km ESE of Ziarat, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-03-03T02:25:20.860Z,29.892,67.983,33.0,4.3,mb,,,,1.13,us,usp0007y5t,2014-11-07T01:02:16.112Z,"23 km S of Harnai, Pakistan",earthquake,,,,10.0,reviewed,us,us
+1997-03-01T19:02:47.760Z,30.027,67.752,33.0,3.6,mb,,,,1.44,us,usp0007y3a,2014-11-07T01:02:15.143Z,"19 km WSW of Harnai, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-03-01T09:15:23.850Z,30.746,67.845,33.0,3.8,mb,,,,0.71,us,usp0007y2g,2014-11-07T01:02:14.902Z,"12 km E of Khadan Khak, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-03-01T08:25:36.190Z,30.42,67.419,33.0,4.3,mb,,,,1.23,us,usp0007y2b,2014-11-07T01:02:14.855Z,"12 km SW of Alik Ghund, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-03-01T07:55:24.870Z,30.126,67.872,33.0,3.7,mb,,,,1.04,us,usp0007y28,2014-11-07T01:02:14.823Z,"6 km WNW of Harnai, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-03-01T07:44:31.520Z,29.881,67.985,33.0,4.4,mb,,,,1.08,us,usp0007y27,2014-11-07T01:02:14.758Z,"24 km S of Harnai, Pakistan",earthquake,,,,3.0,reviewed,us,us
+1997-03-01T02:36:15.550Z,29.995,67.682,33.0,3.6,mb,,,,1.76,us,usp0007y1r,2014-11-07T01:02:14.149Z,"27 km WSW of Harnai, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-03-01T02:06:27.200Z,30.126,67.992,33.0,4.1,mb,,,,1.28,us,usp0007y1p,2014-11-07T01:02:14.057Z,"5 km ENE of Harnai, Pakistan",earthquake,,,,3.0,reviewed,us,us
+1997-03-01T01:39:08.430Z,29.882,67.964,33.0,4.1,mb,,,,0.79,us,usp0007y1n,2014-11-07T01:02:14.046Z,"24 km S of Harnai, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-03-01T01:35:51.190Z,30.018,67.846,33.0,3.9,mb,,,,0.91,us,usp0007y1m,2014-11-07T01:02:14.030Z,"12 km SW of Harnai, Pakistan",earthquake,,,,3.0,reviewed,us,us
+1997-02-28T19:43:40.810Z,30.076,67.873,33.0,3.4,mb,,,,1.28,us,usp0007y0z,2014-11-07T01:02:12.255Z,"6 km WSW of Harnai, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-02-28T16:14:37.210Z,30.083,67.906,33.0,4.3,mb,,,,0.84,us,usp0007y0u,2014-11-07T01:02:12.238Z,"3 km WSW of Harnai, Pakistan",earthquake,,,,5.0,reviewed,us,us
+1997-02-28T10:24:40.320Z,29.933,67.769,33.0,3.8,mb,,,,1.05,us,usp0007y01,2014-11-07T01:02:12.099Z,"24 km SW of Harnai, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-02-28T05:28:37.590Z,30.008,67.836,33.0,4.3,mb,,,,0.72,us,usp0007xz7,2014-11-07T01:02:12.032Z,"14 km SW of Harnai, Pakistan",earthquake,,,,5.0,reviewed,us,us
+1997-02-28T02:22:04.850Z,29.853,67.778,33.0,4.1,mb,,,,0.58,us,usp0007xyr,2014-11-07T01:02:11.998Z,"31 km SSW of Harnai, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-02-28T00:45:09.370Z,29.872,67.825,33.0,4.0,mb,,,,1.1,us,usp0007xyc,2014-11-07T01:02:11.974Z,"27 km SSW of Harnai, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-02-27T23:54:14.880Z,29.336,67.813,33.0,3.8,mb,,,,1.21,us,usp0007xy2,2014-11-07T01:02:11.940Z,"21 km SE of Dadhar, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-02-27T23:39:09.490Z,30.051,67.983,33.0,4.3,mb,,,,0.95,us,usp0007xy0,2014-11-07T01:02:11.936Z,"7 km SE of Harnai, Pakistan",earthquake,,,,6.0,reviewed,us,us
+1997-02-27T23:02:54.310Z,29.55,67.644,33.0,3.3,mb,,,,1.31,us,usp0007xxx,2014-11-07T01:02:11.931Z,"8 km N of Dadhar, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1997-02-27T22:21:07.170Z,30.498,67.628,33.0,4.7,mb,,,,1.01,us,usp0007xxn,2014-11-07T01:02:11.908Z,"10 km E of Alik Ghund, Pakistan",earthquake,,,,6.0,reviewed,us,us
+1997-02-27T21:51:55.720Z,30.105,67.921,33.0,4.4,mb,,,,1.11,us,usp0007xxc,2014-11-07T01:02:11.892Z,"1 km WNW of Harnai, Pakistan",earthquake,,,,5.0,reviewed,us,us
+1997-02-27T21:47:27.560Z,29.824,67.891,33.0,4.6,mb,,,,0.76,us,usp0007xxb,2014-11-07T01:02:11.889Z,"31 km S of Harnai, Pakistan",earthquake,,,,3.0,reviewed,us,us
+1997-02-27T21:44:02.110Z,29.906,67.943,33.0,4.8,mb,,,,1.05,us,usp0007xx9,2014-11-07T01:02:11.882Z,"21 km S of Harnai, Pakistan",earthquake,,,,15.0,reviewed,us,us
+1997-02-27T21:30:36.570Z,29.985,67.977,33.0,6.0,mb,,,,0.96,us,usp0007xx7,2020-09-15T19:22:48.975Z,"13 km SSE of Harnai, Pakistan",earthquake,,,,83.0,reviewed,us,us
+1997-01-10T09:08:30.590Z,28.874,67.316,33.0,4.4,mb,,,,1.1,us,usp0007vpv,2014-11-07T01:01:57.303Z,"52 km WSW of Bhag, Pakistan",earthquake,,,,5.0,reviewed,us,us
+1996-12-01T09:01:49.210Z,29.385,65.922,33.0,4.1,mb,,,,0.74,us,usp0007ttw,2014-11-07T01:01:42.264Z,"20 km SSW of Nushki, Pakistan",earthquake,,,,4.0,reviewed,us,us
+1996-12-01T02:17:48.440Z,29.473,66.089,33.0,4.4,mb,,,,1.03,us,usp0007ttk,2014-11-07T01:01:42.092Z,"10 km SE of Nushki, Pakistan",earthquake,,,,4.0,reviewed,us,us
+1996-12-01T00:46:11.980Z,29.449,65.824,33.0,3.9,mb,,,,0.62,us,usp0007ttc,2014-11-07T01:01:41.910Z,"22 km WSW of Nushki, Pakistan",earthquake,,,,2.0,reviewed,us,us
+1996-11-11T17:34:43.400Z,28.749,66.131,33.0,4.2,mb,,,,1.52,us,usp0007sv4,2014-11-07T01:01:34.572Z,"31 km NNW of Surab, Pakistan",earthquake,,,,4.0,reviewed,us,us
+1996-10-04T03:10:15.030Z,28.2,66.621,33.0,3.6,mb,,,,0.63,us,usp0007qxg,2014-11-07T01:01:19.498Z,"43 km N of Khuzdar, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1996-08-02T11:36:12.300Z,29.398,67.695,33.0,5.2,mwc,,,,1.0,us,usp0007n0h,2016-11-09T23:08:02.382Z,"9 km SSE of Dadhar, Pakistan",earthquake,,,,,reviewed,us,hrv
+1996-04-23T18:21:39.640Z,29.128,67.618,33.0,3.6,mb,,,,0.9,us,usp0007ghb,2014-11-07T01:00:18.797Z,"22 km WNW of Bhag, Pakistan",earthquake,,,,6.0,reviewed,us,us
+1996-03-03T19:27:05.250Z,28.101,66.382,33.0,4.4,mb,,,,1.1,us,usp0007ea0,2014-11-07T01:00:03.152Z,"39 km NW of Khuzdar, Pakistan",earthquake,,,,30.0,reviewed,us,us
+1995-11-06T11:53:17.390Z,29.018,64.248,109.4,4.7,mb,,,,1.2,us,usp00076ck,2014-11-07T00:59:07.914Z,"21 km NW of Dalbandin, Pakistan",earthquake,,9.6,,56.0,reviewed,us,us
+1995-08-10T17:00:21.060Z,29.306,67.377,33.0,3.9,mb,,,,1.1,us,usp00071pf,2014-11-07T00:58:30.733Z,"32 km SW of Dadhar, Pakistan",earthquake,,,,6.0,reviewed,us,us
+1995-06-11T08:26:35.530Z,29.861,67.725,33.0,4.1,mb,,,,0.8,us,usp0006yxe,2014-11-07T00:58:07.967Z,"33 km SW of Harnai, Pakistan",earthquake,,,,6.0,reviewed,us,us
+1995-06-05T16:46:02.680Z,30.052,67.957,33.0,4.5,mb,,,,1.0,us,usp0006yma,2014-11-07T00:58:06.082Z,"5 km SSE of Harnai, Pakistan",earthquake,,,,45.0,reviewed,us,us
+1995-05-31T13:51:19.400Z,30.232,67.937,23.7,5.6,mw,,,,0.9,us,usp0006ycz,2020-09-15T18:01:23.550Z,"14 km N of Harnai, Pakistan",earthquake,,,,,reviewed,us,hrv
+1995-04-06T14:26:13.020Z,30.888,67.946,33.0,4.3,mb,,,,1.5,us,usp0006v9b,2014-11-07T00:57:40.025Z,"27 km NE of Khadan Khak, Pakistan",earthquake,,,,8.0,reviewed,us,us
+1995-03-16T03:27:02.390Z,30.127,67.569,28.5,4.8,mb,,,,1.1,us,usp0006u89,2014-11-07T00:57:31.164Z,"32 km SSW of Ziarat, Pakistan",earthquake,,,,49.0,reviewed,us,us
+1994-05-12T08:03:12.690Z,30.046,67.812,17.1,4.4,mb,,,,1.0,us,usp0006cen,2014-11-07T00:55:28.121Z,"13 km WSW of Harnai, Pakistan",earthquake,,,,9.0,reviewed,us,us
+1994-02-19T03:13:08.660Z,29.991,67.845,33.0,4.6,mb,,,,1.0,us,usp00068qm,2014-11-07T00:55:00.184Z,"15 km SW of Harnai, Pakistan",earthquake,,,,21.0,reviewed,us,us
+1993-11-19T03:18:13.210Z,28.356,66.162,12.5,4.6,mb,,,,1.3,us,usp00063w6,2014-11-07T00:54:25.593Z,"17 km SSW of Surab, Pakistan",earthquake,,,,12.0,reviewed,us,us
+1993-11-16T15:52:48.520Z,30.798,67.219,26.5,5.6,mw,,,,1.2,us,usp00063su,2020-09-15T16:48:53.343Z,"32 km NE of Pishin, Pakistan",earthquake,,,,,reviewed,us,hrv
+1993-10-30T23:05:53.010Z,30.405,67.651,10.0,4.7,mb,,,,1.2,us,usp00062yf,2014-11-07T00:54:16.356Z,"7 km WNW of Ziarat, Pakistan",earthquake,,,,26.0,reviewed,us,us
+1993-08-23T19:51:10.500Z,30.045,67.891,31.5,4.8,mb,,,,1.0,us,usp0005z2z,2014-11-07T00:53:47.927Z,"7 km SW of Harnai, Pakistan",earthquake,,,,57.0,reviewed,us,us
+1993-08-23T05:21:43.310Z,30.035,67.921,24.6,5.0,mb,,,,0.9,us,usp0005z1c,2014-11-07T00:53:47.768Z,"7 km SSW of Harnai, Pakistan",earthquake,,,,76.0,reviewed,us,us
+1993-07-26T09:31:30.340Z,29.96,66.626,33.0,4.9,ms,,,,1.1,us,usp0005xdv,2014-11-07T00:53:33.969Z,"27 km NW of Mastung, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1993-03-11T00:04:25.510Z,31.532,67.099,13.9,4.7,mb,,,,1.4,us,usp0005p9y,2014-11-07T00:52:34.546Z,"66 km SSE of Qal?t, Afghanistan",earthquake,,,,22.0,reviewed,us,us
+1992-11-08T23:27:25.110Z,29.927,67.617,33.0,4.2,mb,,,,1.5,us,usp0005gjn,2014-11-07T00:51:50.703Z,"28 km ENE of Mach, Pakistan",earthquake,,,,6.0,reviewed,us,us
+1992-10-18T06:29:10.300Z,30.909,67.941,33.0,3.5,mb,,,,1.3,us,usp0005fgr,2014-11-07T00:51:41.092Z,"28 km NE of Khadan Khak, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1992-09-18T23:52:35.740Z,28.669,66.193,23.6,4.9,mb,,,,1.1,us,usp0005e6f,2014-11-07T00:51:29.550Z,"20 km NNW of Surab, Pakistan",earthquake,,,,62.0,reviewed,us,us
+1992-08-28T03:38:01.670Z,29.655,67.343,33.0,4.5,mb,,,,1.3,us,usp0005d6c,2014-11-07T00:51:19.609Z,"23 km S of Mach, Pakistan",earthquake,,,,13.0,reviewed,us,us
+1992-08-28T00:50:50.450Z,29.087,66.74,9.3,5.6,mw,,,,1.3,us,usp0005d5z,2020-08-29T01:46:49.436Z,"15 km ENE of Kalat, Pakistan",earthquake,,,,,reviewed,us,hrv
+1992-08-16T13:39:55.140Z,29.83,67.331,33.0,4.3,mb,,,,0.5,us,usp0005cja,2014-11-07T00:51:16.459Z,"3 km S of Mach, Pakistan",earthquake,,,,9.0,reviewed,us,us
+1992-07-14T04:24:28.280Z,30.181,66.32,33.0,4.6,mb,,,,1.7,us,usp0005atk,2014-11-07T00:51:03.951Z,"64 km W of Kot Malik Barkhurdar, Pakistan",earthquake,,,,8.0,reviewed,us,us
+1992-05-16T15:50:30.610Z,28.205,66.578,33.0,3.9,mb,,,,1.4,us,usp00057fn,2014-11-07T00:50:37.978Z,"43 km N of Khuzdar, Pakistan",earthquake,,,,2.0,reviewed,us,us
+1992-05-04T10:54:22.200Z,29.882,67.55,10.0,4.9,mb,,,,1.1,us,usp00056wq,2014-11-07T00:50:34.884Z,"21 km E of Mach, Pakistan",earthquake,,,,51.0,reviewed,us,us
+1992-02-05T23:41:36.850Z,31.365,66.858,33.0,5.0,mb,,,,1.3,us,usp00052p5,2014-11-07T00:50:03.654Z,"62 km NE of Chaman, Pakistan",earthquake,,,,50.0,reviewed,us,us
+1992-02-05T23:10:48.630Z,31.426,66.825,17.9,5.5,mw,,,,1.0,us,usp00052p4,2020-08-29T01:14:32.067Z,"66 km NNE of Chaman, Pakistan",earthquake,,,,,reviewed,us,hrv
+1992-02-05T19:36:29.880Z,31.513,67.038,33.0,4.4,mb,,,,1.5,us,usp00052nx,2014-11-07T00:50:03.592Z,"66 km S of Qal?t, Afghanistan",earthquake,,,,9.0,reviewed,us,us
+1991-09-30T18:08:16.600Z,30.305,67.732,33.0,4.5,mb,,,,1.1,us,usp0004x8e,2014-11-07T00:49:18.364Z,"8 km S of Ziarat, Pakistan",earthquake,,,,10.0,reviewed,us,us
+1991-09-22T05:42:27.890Z,30.165,67.799,10.0,4.9,mb,,,,0.9,us,usp0004wx2,2014-11-07T00:49:16.822Z,"15 km WNW of Harnai, Pakistan",earthquake,,,,44.0,reviewed,us,us
+1991-09-15T02:12:24.940Z,30.724,66.763,25.9,4.6,ms,,,,1.5,us,usp0004wnd,2014-11-07T00:49:15.216Z,"27 km NW of Pishin, Pakistan",earthquake,,,,7.0,reviewed,us,us
+1991-09-15T00:20:50.300Z,30.617,66.735,33.0,4.8,mb,,,,1.5,us,usp0004wna,2014-11-07T00:49:15.205Z,"25 km W of Pishin, Pakistan",earthquake,,,,11.0,reviewed,us,us
+1991-08-01T01:56:06.330Z,30.044,67.922,33.0,4.7,mb,,,,0.8,us,usp0004uv1,2014-11-07T00:49:00.922Z,"6 km SSW of Harnai, Pakistan",earthquake,,,,4.0,reviewed,us,us
+1991-07-21T12:27:57.530Z,28.652,66.578,33.0,4.2,mb,,,,0.8,us,usp0004uek,2014-11-07T00:48:56.254Z,"35 km ENE of Surab, Pakistan",earthquake,,,,3.0,reviewed,us,us
+1991-02-26T01:19:27.390Z,31.353,67.2,33.0,4.3,mb,,,,0.5,us,usp0004nec,2014-11-07T00:48:05.332Z,"82 km NW of Khadan Khak, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1991-02-25T20:01:39.250Z,30.617,67.498,33.0,4.5,mb,,,,1.1,us,usp0004ndy,2014-11-07T00:48:05.288Z,"14 km N of Alik Ghund, Pakistan",earthquake,,,,2.0,reviewed,us,us
+1991-02-25T02:38:42.850Z,30.837,67.198,33.0,4.7,mb,,,,1.2,us,usp0004nd0,2014-11-07T00:48:05.014Z,"34 km NE of Pishin, Pakistan",earthquake,,,,4.0,reviewed,us,us
+1990-11-28T19:21:21.720Z,28.631,66.683,68.6,4.2,mb,,,,1.2,us,usp0004hhg,2014-11-07T00:47:29.170Z,"44 km ENE of Surab, Pakistan",earthquake,,20.2,,3.0,reviewed,us,us
+1990-10-14T06:05:51.370Z,30.534,67.495,12.3,4.7,mb,,,,1.0,us,usp0004fra,2014-11-07T00:47:16.780Z,"5 km NNW of Alik Ghund, Pakistan",earthquake,,,,16.0,reviewed,us,us
+1990-07-09T07:46:05.690Z,28.628,66.375,25.2,4.2,mb,,,,1.4,us,usp0004bkc,2014-11-07T00:46:39.723Z,"18 km NE of Surab, Pakistan",earthquake,,14.2,,7.0,reviewed,us,us
+1990-06-15T05:54:55.740Z,30.582,67.429,33.0,4.4,mb,,,,1.7,us,usp0004ahk,2014-11-07T00:46:31.954Z,"13 km NW of Alik Ghund, Pakistan",earthquake,,,,2.0,reviewed,us,us
+1990-05-09T05:24:23.130Z,29.39,66.925,33.0,4.2,mb,,,,1.4,us,usp000492u,2014-11-07T00:46:19.991Z,"46 km S of Mastung, Pakistan",earthquake,,,,4.0,reviewed,us,us
+1990-04-27T05:29:25.900Z,28.696,66.177,16.8,5.5,mw,,,,1.3,us,usp00048hx,2020-08-28T23:37:45.033Z,"23 km NNW of Surab, Pakistan",earthquake,,,,,reviewed,us,hrv
+1990-03-05T02:45:52.970Z,28.579,66.532,33.0,4.2,mb,,,,1.2,us,usp000466u,2014-11-07T00:45:52.886Z,"28 km ENE of Surab, Pakistan",earthquake,,,,4.0,reviewed,us,us
+1990-03-04T23:42:07.640Z,28.967,66.574,33.0,4.4,mb,,,,1.3,us,usp000466s,2014-11-07T00:45:52.860Z,"6 km SSW of Kalat, Pakistan",earthquake,,,,3.0,reviewed,us,us
+1990-03-04T20:34:56.280Z,28.703,66.175,10.0,4.7,mb,,,,1.1,us,usp000466n,2014-11-07T00:45:52.629Z,"24 km NNW of Surab, Pakistan",earthquake,,,,27.0,reviewed,us,us
+1990-03-04T20:18:52.610Z,28.986,66.649,53.9,4.3,mb,,,,1.5,us,usp000466m,2014-11-07T00:45:52.511Z,"7 km SE of Kalat, Pakistan",earthquake,,18.2,,8.0,reviewed,us,us
+1990-03-04T19:46:19.670Z,28.925,66.331,10.1,6.1,mw,,,,1.2,us,usp000466k,2020-08-28T23:26:53.892Z,"27 km WSW of Kalat, Pakistan",earthquake,,,,,reviewed,us,hrv
+1990-02-26T18:21:26.270Z,29.845,67.526,17.0,5.4,mb,,,,0.9,us,usp00045y6,2014-11-07T00:45:48.047Z,"19 km E of Mach, Pakistan",earthquake,,9.2,,27.0,reviewed,us,us
+1990-01-31T13:09:10.060Z,29.693,67.95,33.0,4.5,mb,,,,1.4,us,usp00044xf,2014-11-07T00:45:36.185Z,"18 km NNE of Sibi, Pakistan",earthquake,,,,5.0,reviewed,us,us
+1989-12-29T04:20:29.840Z,28.791,67.256,15.4,4.7,mb,,,,1.3,us,usp00043q6,2014-11-07T00:45:24.283Z,"61 km WSW of Bhag, Pakistan",earthquake,,,,19.0,reviewed,us,us
+1989-10-05T14:47:07.860Z,29.059,67.232,33.6,4.6,mb,,,,1.1,us,usp00040bw,2014-11-07T00:44:58.953Z,"57 km W of Bhag, Pakistan",earthquake,,14.8,,15.0,reviewed,us,us
+1989-04-11T05:23:00.180Z,29.722,64.09,33.0,4.6,mb,,,,1.5,us,usp0003tum,2014-11-07T00:43:59.499Z,"97 km NNW of Dalbandin, Pakistan",earthquake,,,,7.0,reviewed,us,us
+1989-03-31T03:33:12.070Z,31.27,66.873,10.0,4.2,mb,,,,1.1,us,usp0003tfy,2014-11-07T00:43:51.893Z,"55 km NE of Chaman, Pakistan",earthquake,,,,4.0,reviewed,us,us
+1989-03-14T03:27:15.780Z,29.909,67.638,33.0,4.6,mb,,,,1.0,us,usp0003sxb,2014-11-07T00:43:48.987Z,"30 km E of Mach, Pakistan",earthquake,,,,2.0,reviewed,us,us
+1989-02-20T16:37:31.180Z,29.22,67.659,33.0,4.4,mb,,,,1.5,us,usp0003s3w,2014-11-07T00:43:37.499Z,"25 km NW of Bhag, Pakistan",earthquake,,,,4.0,reviewed,us,us
+1989-01-26T18:22:29.510Z,31.752,67.178,33.0,4.2,mb,,,,0.4,us,usp0003r8n,2014-11-07T00:43:29.087Z,"46 km SSE of Qal?t, Afghanistan",earthquake,,,,3.0,reviewed,us,us
+1988-11-28T05:19:08.700Z,28.567,64.105,70.3,4.9,mb,,,,1.1,us,usp0003p9p,2014-11-07T00:43:10.342Z,"46 km SW of Dalbandin, Pakistan",earthquake,,9.9,,37.0,reviewed,us,us
+1988-04-25T16:13:49.610Z,30.475,67.558,33.0,4.2,mb,,,,0.1,us,usp0003fc0,2014-11-07T00:41:59.090Z,"3 km ESE of Alik Ghund, Pakistan",earthquake,,,,3.0,reviewed,us,us
+1988-04-07T01:05:04.370Z,30.012,67.698,33.0,4.4,mb,,,,1.2,us,usp0003erq,2014-11-07T00:41:56.118Z,"25 km WSW of Harnai, Pakistan",earthquake,,,,3.0,reviewed,us,us
+1988-03-28T13:39:52.880Z,29.912,67.966,18.0,4.3,mb,,,,1.2,us,usp0003eds,2014-11-07T00:41:50.135Z,"21 km S of Harnai, Pakistan",earthquake,,13.4,,9.0,reviewed,us,us
+1988-03-27T06:01:01.810Z,30.092,67.914,20.0,4.6,mb,,,,0.8,us,usp0003ecd,2014-11-07T00:41:49.986Z,"2 km WSW of Harnai, Pakistan",earthquake,,9.0,,12.0,reviewed,us,us
+1988-03-26T08:42:23.130Z,30.013,67.468,25.3,4.6,mb,,,,0.8,us,usp0003ebe,2014-11-07T00:41:49.846Z,"21 km NE of Mach, Pakistan",earthquake,,8.9,,9.0,reviewed,us,us
+1988-03-23T10:15:31.310Z,28.513,66.06,33.0,4.3,mb,,,,0.9,us,usp0003e80,2014-11-07T00:41:49.332Z,"19 km W of Surab, Pakistan",earthquake,,,,3.0,reviewed,us,us
+1988-03-19T21:00:09.690Z,30.045,67.966,10.0,4.5,mb,,,,1.5,us,usp0003e45,2014-11-07T00:41:48.917Z,"6 km SSE of Harnai, Pakistan",earthquake,,,,3.0,reviewed,us,us
+1988-03-19T20:19:15.940Z,29.999,67.91,15.1,5.7,mw,,,,1.0,us,usp0003e44,2020-08-28T21:57:01.560Z,"11 km SSW of Harnai, Pakistan",earthquake,,8.5,,,reviewed,us,hrv
+1988-03-14T20:19:02.960Z,29.905,67.876,15.7,4.4,mb,,,,1.0,us,usp0003dyy,2014-11-07T00:41:48.289Z,"22 km SSW of Harnai, Pakistan",earthquake,,5.6,,11.0,reviewed,us,us
+1987-03-27T05:45:39.430Z,30.155,67.716,33.0,4.3,mb,,,,0.8,us,usp00033p4,2014-11-07T00:40:07.317Z,"22 km WNW of Harnai, Pakistan",earthquake,,,,2.0,reviewed,us,us
+1986-10-10T05:26:29.820Z,29.917,67.442,10.0,4.6,mb,,,,0.9,us,usp0002ytu,2014-11-07T00:39:08.472Z,"12 km ENE of Mach, Pakistan",earthquake,,,,23.0,reviewed,us,us
+1986-02-11T16:58:02.480Z,30.038,66.401,33.0,4.1,mb,,,,0.6,us,usp0002qx8,2014-11-07T00:37:54.662Z,"50 km WNW of Mastung, Pakistan",earthquake,,,,5.0,reviewed,us,us
+1986-01-23T17:20:13.610Z,28.444,66.322,33.0,4.6,mb,,,,1.1,us,usp0002qc8,2014-11-07T00:37:48.548Z,"8 km SE of Surab, Pakistan",earthquake,,,,7.0,reviewed,us,us
+1986-01-22T02:01:16.260Z,30.205,66.314,33.0,4.4,mb,,,,1.4,us,usp0002qad,2014-11-07T00:37:48.370Z,"64 km W of Kot Malik Barkhurdar, Pakistan",earthquake,,,,4.0,reviewed,us,us
+1985-11-04T12:37:23.710Z,31.799,67.539,33.0,4.5,mb,,,,0.7,us,usp0002mey,2014-11-07T00:37:25.950Z,"68 km ESE of Qal?t, Afghanistan",earthquake,,,,3.0,reviewed,us,us
+1985-05-03T19:23:47.350Z,30.181,67.486,33.0,4.2,mb,,,,0.9,us,usp0002eeg,2014-11-07T00:36:32.662Z,"32 km SW of Ziarat, Pakistan",earthquake,,,,2.0,reviewed,us,us
+1985-04-15T11:24:00.450Z,30.249,66.33,33.0,4.8,mb,,,,1.2,us,usp0002du7,2014-11-07T00:36:26.853Z,"63 km W of Kot Malik Barkhurdar, Pakistan",earthquake,,,,14.0,reviewed,us,us
+1985-03-19T09:10:24.370Z,30.064,66.324,33.0,4.2,mb,,,,1.2,us,usp0002d1c,2014-11-07T00:36:19.495Z,"58 km WNW of Mastung, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1984-04-15T21:49:50.730Z,29.899,67.762,20.7,5.0,mb,,,,0.9,us,usp00023kf,2014-11-07T00:34:46.092Z,"28 km SW of Harnai, Pakistan",earthquake,,4.7,,30.0,reviewed,us,us
+1984-04-11T12:34:29.810Z,30.508,66.41,33.0,3.9,mb,,,,1.9,us,usp00023ew,2014-11-07T00:34:45.521Z,"45 km S of Chaman, Pakistan",earthquake,,,,2.0,reviewed,us,us
+1984-02-08T13:07:03.180Z,30.11,67.886,33.0,4.5,mb,,,,1.2,us,usp00021um,2014-11-07T00:34:29.505Z,"5 km WNW of Harnai, Pakistan",earthquake,,,,9.0,reviewed,us,us
+1983-08-06T04:52:53.690Z,30.349,67.84,10.0,4.7,mb,,,,1.3,us,usp0001xce,2020-08-26T22:50:53.176Z,"11 km ESE of Ziarat, Pakistan",earthquake,,,,10.0,reviewed,us,us
+1983-02-22T18:43:25.620Z,29.72,67.409,5.0,4.4,mb,,,,1.4,us,usp0001t8q,2014-11-07T00:32:43.329Z,"17 km SSE of Mach, Pakistan",earthquake,,,,10.0,reviewed,us,us
+1982-08-04T17:34:20.860Z,29.669,67.495,33.0,5.0,mb,,,,0.8,us,usp0001nuh,2014-11-07T00:31:42.942Z,"26 km NW of Dadhar, Pakistan",earthquake,,,,34.0,reviewed,us,us
+1982-06-01T14:39:32.060Z,28.532,66.805,33.0,4.1,mb,,,,1.6,us,usp0001mmw,2014-11-07T00:31:23.315Z,"53 km E of Surab, Pakistan",earthquake,,,,2.0,reviewed,us,us
+1982-03-05T04:16:03.420Z,29.87,67.612,33.0,4.7,mb,,,,1.2,us,usp0001jyv,2014-11-07T00:30:57.380Z,"27 km E of Mach, Pakistan",earthquake,,,,15.0,reviewed,us,us
+1981-12-12T20:29:09.920Z,29.673,67.066,33.0,4.6,mb,,,,1.1,us,usp0001hct,2014-11-07T00:30:31.211Z,"25 km ESE of Mastung, Pakistan",earthquake,,,,5.0,reviewed,us,us
+1981-12-12T20:26:46.940Z,29.856,66.962,33.0,4.6,mb,,,,0.9,us,usp0001hcs,2020-08-26T21:49:15.466Z,"12 km ENE of Mastung, Pakistan",earthquake,,,,10.0,reviewed,us,us
+1981-11-03T04:19:48.310Z,29.947,67.927,23.2,4.3,mb,,,,1.1,us,usp0001gsq,2014-11-07T00:30:20.123Z,"17 km S of Harnai, Pakistan",earthquake,,7.6,,10.0,reviewed,us,us
+1981-11-02T22:59:47.710Z,29.9,67.921,21.6,4.8,mb,,,,0.9,us,usp0001gsk,2014-11-07T00:30:19.915Z,"22 km S of Harnai, Pakistan",earthquake,,4.7,,38.0,reviewed,us,us
+1981-09-11T22:24:48.350Z,28.772,66.355,33.0,4.1,mb,,,,0.8,us,usp0001ftc,2014-11-07T00:30:05.177Z,"32 km NNE of Surab, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1981-05-07T06:28:59.870Z,31.349,66.689,33.0,3.8,mb,,,,0.8,us,usp0001djr,2014-11-07T00:29:27.432Z,"52 km NNE of Chaman, Pakistan",earthquake,,,,1.0,reviewed,us,us
+1980-10-29T19:55:42.200Z,31.933,67.038,33.0,3.9,mb,,,,,us,usp0001ajw,2014-11-06T23:24:26.978Z,"22 km SSE of Qal?t, Afghanistan",earthquake,,,,,reviewed,us,us
+1980-09-06T21:28:59.600Z,28.419,65.911,19.0,4.8,ms,,,,,us,usp00019q3,2014-11-06T23:24:25.862Z,"35 km WSW of Surab, Pakistan",earthquake,,,,,reviewed,us,us
+1980-07-03T22:30:05.100Z,30.871,67.676,33.0,4.3,mb,,,,,us,usp00018mw,2014-11-06T23:24:23.942Z,"13 km NNW of Khadan Khak, Pakistan",earthquake,,,,,reviewed,us,us
+1980-05-11T02:44:22.300Z,29.251,67.56,33.0,4.7,mb,,,,,us,usp000175b,2014-11-06T23:24:21.711Z,"26 km SSW of Dadhar, Pakistan",earthquake,,,,,reviewed,us,us
+1979-09-02T16:14:48.800Z,28.635,66.074,33.0,4.8,mb,,,,,us,usp00012s9,2014-11-06T23:22:05.198Z,"24 km NW of Surab, Pakistan",earthquake,,,,,reviewed,us,us
+1979-06-24T13:49:03.400Z,30.295,66.349,40.0,4.8,mb,,,,,us,usp00011h9,2014-11-06T23:22:03.212Z,"62 km W of Kot Malik Barkhurdar, Pakistan",earthquake,,,,,reviewed,us,us
+1979-03-02T10:25:46.600Z,29.798,67.691,33.0,4.8,mb,,,,,us,usp0000z42,2014-11-06T23:21:57.763Z,"33 km NNW of Sibi, Pakistan",earthquake,,,,,reviewed,us,us
+1978-12-10T02:26:59.000Z,28.321,66.062,33.0,3.3,mb,,,,,us,usp0000xv5,2014-11-06T23:21:54.839Z,"27 km SW of Surab, Pakistan",earthquake,,,,,reviewed,us,us
+1978-12-10T01:30:16.700Z,28.66,66.521,33.0,4.9,mb,,,,,us,usp0000xv3,2016-11-10T00:10:18.410Z,"31 km NE of Surab, Pakistan",earthquake,,,,,reviewed,us,us
+1978-12-04T00:18:50.900Z,30.256,66.338,33.0,4.3,mb,,,,,us,usp0000xrp,2014-11-06T23:21:54.336Z,"62 km W of Kot Malik Barkhurdar, Pakistan",earthquake,,,,,reviewed,us,us
+1978-11-07T23:35:02.900Z,30.511,67.952,39.0,4.2,mb,,,,,us,usp0000xb5,2014-11-06T23:21:53.584Z,"25 km ENE of Ziarat, Pakistan",earthquake,,,,,reviewed,us,us
+1978-07-11T22:50:39.000Z,30.105,67.527,10.0,4.4,mb,,,,,us,usp0000vhk,2014-11-06T23:21:50.303Z,"32 km NE of Mach, Pakistan",earthquake,,,,,reviewed,us,us
+1978-05-06T11:16:09.900Z,29.841,66.208,33.0,5.7,ms,,,,,us,usp0000udy,2020-08-26T19:46:20.967Z,"36 km NNE of Nushki, Pakistan",earthquake,,,,,reviewed,us,us
+1978-04-19T10:19:23.200Z,29.839,66.27,26.0,4.2,mb,,,,,us,usp0000u64,2014-11-06T23:21:48.619Z,"39 km NE of Nushki, Pakistan",earthquake,,,,,reviewed,us,us
+1978-03-16T02:00:00.500Z,29.926,66.302,33.0,5.9,ms,,,,,us,usp0000tdx,2020-08-26T19:39:17.938Z,"49 km NNE of Nushki, Pakistan",earthquake,,,,,reviewed,us,us
+1978-02-28T17:07:17.000Z,28.508,66.218,33.0,4.7,mb,,,,,us,usp0000t66,2014-11-06T23:21:47.408Z,"4 km WNW of Surab, Pakistan",earthquake,,,,,reviewed,us,us
+1978-02-23T16:02:37.100Z,31.495,67.014,33.0,4.6,mb,,,,,us,usp0000t3z,2014-11-06T23:21:47.336Z,"68 km S of Qal?t, Afghanistan",earthquake,,,,,reviewed,us,us
+1977-11-18T06:39:02.100Z,30.25,66.271,27.0,4.9,mb,,,,,us,usp0000rk9,2014-11-06T23:21:45.298Z,"69 km W of Kot Malik Barkhurdar, Pakistan",earthquake,,,,,reviewed,us,us
+1977-07-13T08:09:15.700Z,29.88,67.454,10.0,5.5,ms,,,,,us,usp0000pq5,2020-07-10T22:16:13.727Z,"12 km E of Mach, Pakistan",earthquake,,,,,reviewed,us,us
+1977-06-13T00:16:46.200Z,29.838,67.642,33.0,4.4,mb,,,,,us,usp0000p92,2014-11-06T23:21:42.369Z,"30 km E of Mach, Pakistan",earthquake,,,,,reviewed,us,us
+1976-08-20T11:22:02.200Z,30.447,66.38,33.0,4.0,mb,,,,,us,usp0000hyy,2014-11-06T23:21:36.829Z,"52 km S of Chaman, Pakistan",earthquake,,,,,reviewed,us,us
+1975-10-06T12:51:37.700Z,30.132,66.262,24.0,4.4,mb,,,,,us,usp0000d2c,2014-11-06T23:21:32.209Z,"67 km WNW of Mastung, Pakistan",earthquake,,,,,reviewed,us,us
+1975-10-04T05:59:42.900Z,30.325,66.233,15.0,4.5,mb,,,,,us,usp0000d1q,2014-11-06T23:21:32.196Z,"68 km SSW of Chaman, Pakistan",earthquake,,,,,reviewed,us,us
+1975-10-03T19:08:07.300Z,30.47,66.488,23.0,4.9,mb,,,,,us,usp0000d1m,2014-11-06T23:21:32.194Z,"49 km S of Chaman, Pakistan",earthquake,,,,,reviewed,us,us
+1975-10-03T17:55:03.700Z,30.416,66.467,33.0,4.9,mb,,,,,us,usp0000d1j,2014-11-06T23:21:32.193Z,"53 km WSW of Pishin, Pakistan",earthquake,,,,,reviewed,us,us
+1975-10-03T17:31:35.800Z,30.413,66.35,33.0,6.4,ms,,,,,us,usp0000d1h,2020-08-26T00:35:18.641Z,"56 km S of Chaman, Pakistan",earthquake,,,,,reviewed,us,us
+1975-10-03T05:14:23.300Z,30.251,66.315,11.0,6.7,ms,,,,,us,usp0000d18,2020-08-26T00:34:41.015Z,"64 km W of Kot Malik Barkhurdar, Pakistan",earthquake,,,,,reviewed,us,us
+1975-09-28T10:19:40.300Z,30.26,66.289,8.0,4.2,mb,,,,,us,usp0000czb,2014-11-06T23:21:32.149Z,"67 km W of Kot Malik Barkhurdar, Pakistan",earthquake,,,,,reviewed,us,us
+1975-07-18T09:30:12.200Z,30.974,66.699,35.0,4.9,mb,,,,,us,usp0000c19,2014-11-06T23:21:31.249Z,"24 km ENE of Chaman, Pakistan",earthquake,,,,,reviewed,us,us
+1974-02-22T07:06:32.600Z,29.687,67.6,33.0,5.0,mb,,,,,us,usp00005cj,2014-11-06T23:21:22.967Z,"24 km NNW of Dadhar, Pakistan",earthquake,,,,,reviewed,us,us
+1973-06-25T20:22:26.500Z,28.322,66.921,72.0,4.3,mb,,,,,us,usp00002dd,2014-11-06T23:21:13.917Z,"64 km NNE of Khuzdar, Pakistan",earthquake,,,,,reviewed,us,us
+1973-02-04T19:25:48.300Z,31.672,67.264,40.0,3.9,mb,,,,,us,usp00000d6,2014-11-06T23:21:08.680Z,"58 km SE of Qal?t, Afghanistan",earthquake,,,,,reviewed,us,us
